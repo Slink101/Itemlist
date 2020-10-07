@@ -12,88 +12,64 @@
     "version": "8.0.1"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
     "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.9.95"
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
   },
   {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
   },
   {
-    "author": "notfood",
-    "name": "ResearchPal",
-    "steamId": "946390822",
-    "version": "1.1.3.0"
-  },
-  {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Supes",
-    "name": "Auto Seller",
-    "steamId": "1440321094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.0.1.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.2.3.0"
+    "author": "LachlanEaston",
+    "name": "LBE's A Dog Said Easy Patcher"
   },
   {
     "author": "erdelf",
-    "name": "ShowModDesignators"
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.2.3"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors"
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor[1.0-1.2]"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Hair Expanded - Beards"
   },
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.2.644"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.3.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions"
   },
   {
     "author": "Andreas Pardeike",
@@ -102,20 +78,652 @@
     "version": "3.0.8.0"
   },
   {
+    "author": "BookBurner",
+    "name": "Jecs Tobacco and Cigarettes (Continued)"
+  },
+  {
     "author": "Andreas Pardeike",
-    "name": "Range Finder",
-    "steamId": "1332119637",
-    "version": "2.0.1.0"
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.0.4.0"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7520.584"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "Machine",
+    "name": "Raise The Roof 1.2",
+    "steamId": "1776143665",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "420Reality"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.2"
+  },
+  {
+    "author": "Magical Liopleurodon",
+    "name": "Non-Flammable Metal (1.0-1.2)"
+  },
+  {
+    "author": "Smash Phil | Dr_Zhivago",
+    "name": "Carry Capacity Fixed"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Josh Mate",
+    "name": "Better Traders"
+  },
+  {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.3.688"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.8.1603"
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Ships"
+  },
+  {
+    "author": "Bob",
+    "name": "[1.1]DraggableCorners"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.944"
+  },
+  {
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Stormtail",
+    "name": "Save Our Ship 2 - Extensions"
+  },
+  {
+    "author": "Ben",
+    "name": "Automatic Night Owl"
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat"
+  },
+  {
+    "author": "Neceros",
+    "name": "Bad Can Be Good"
+  },
+  {
+    "author": "Coalcat and sumghai",
+    "name": "Defensive Machine Gun Turret Pack"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.2.3.2"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Guns"
+  },
+  {
+    "author": "N7Huntsman",
+    "name": "Mechanoid Nerf for Combat Extended"
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race"
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race CE Patch"
+  },
+  {
+    "author": "JKV",
+    "name": "Rakkle the rattle snake Race mod"
+  },
+  {
+    "author": "Jacketgun",
+    "name": "CE patch for Rakkle the rattle snake Race mod"
+  },
+  {
+    "author": "Nykot",
+    "name": "RPG Style Inventory CE Revived [1.2]"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races "
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults (Continued)",
+    "steamId": "2249174783",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gradient Hair",
+    "steamId": "1687053679",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Dynamic Diplomacy",
+    "steamId": "1875168898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Saakra",
+    "name": "Empire",
+    "steamId": "2006535182",
+    "version": "0.331"
+  },
+  {
+    "author": "Avius",
+    "name": "Bad People",
+    "steamId": "1369675292",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "gguake",
+    "name": "Apparel BodyType Resolver",
+    "steamId": "2037354634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "leion247",
+    "name": "Misc. Craftable Robots"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Realistic Rooms"
+  },
+  {
+    "author": "gloriousyuri",
+    "name": "Misc. Craftable Robots Retexture"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Meals On Wheels",
+    "steamId": "1323773476",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Enhanced Vanilla Pack"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Appearance clothes",
+    "steamId": "1537867047",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Appearance clothes - Humanoid Alien Races Patch"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Storyteller pack"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fallout Traits (Continued)"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security pack"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Harvest Yield",
+    "steamId": "1461790308",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Rimhair"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Feral Faction Pack"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.4.0.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Locks"
+  },
+  {
+    "author": "EarthyTurtle, zhrocks",
+    "name": "Let's Trade!"
+  },
+  {
+    "author": "KapTaiN_KaVerN, Dingo",
+    "name": "Less Rebuff"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles"
+  },
+  {
+    "author": "Vaniat",
+    "name": "Incident Person Stat"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality"
+  },
+  {
+    "author": "N7Huntsman, WereCat88",
+    "name": "Rimsenal + Combat Extended Compatibility Mega Patch"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": "1331961995",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2"
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "Gloomy Face mk2"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.5.1369"
+  },
+  {
+    "author": "PinoChemicali",
+    "name": "More Trade Ships"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7528.166"
+  },
+  {
+    "author": "Leigh",
+    "name": "Pack Mules Extended - Dinosauria"
+  },
+  {
+    "author": "Leigh",
+    "name": "Pack Mules Extended"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "no disturbed sleep"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vakaria",
+    "name": "Respect the Scars"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hatti",
     "name": "QualitySurgeon"
   },
   {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "2218078784",
+    "author": "AgentBlac",
+    "name": "1.2 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
+  },
+  {
+    "author": "[cn]nuclear",
+    "name": "Tinker's Construct"
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] More Slaves",
+    "steamId": "2021510577",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Dark_Inquisitor",
+    "name": "Ushanka! 1.1(Continued)"
+  },
+  {
+    "author": "Morylska",
+    "name": "Vanilla Armor Patch for SoS"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Use Bedrolls",
+    "steamId": "1353625821",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot"
+  },
+  {
+    "author": "Pyrce",
+    "name": "Thanks For All The Fish"
+  },
+  {
+    "author": "GHXX",
+    "name": "Tech Advancing",
+    "steamId": "735268789",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EarthyTurtle, zhrocks",
+    "name": "Stackable Chunks"
+  },
+  {
+    "author": "WGFLASH55",
+    "name": "Circle And Oval"
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Human"
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "RunAndGun"
+  },
+  {
+    "author": "Linq",
+    "name": "Psychology (unofficial 1.1/1.2) "
+  },
+  {
+    "author": "Meltup",
+    "name": "Polyamory Beds (Vanilla Edition)"
+  },
+  {
+    "author": "Inggo",
+    "name": "Advanced Polyamory Beds"
+  },
+  {
+    "author": "Undereastern, Owlchemist",
+    "name": "Lizardmen"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Forsakens",
+    "steamId": "1728999127",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Summin",
+    "name": "Dragonkin"
+  },
+  {
+    "author": "Ed86",
+    "name": "RimJobWorld",
+    "steamId": "",
+    "version": "4.4.9"
+  },
+  {
+    "author": "Abraxas",
+    "name": "RJW - RaceSupport"
+  },
+  {
+    "author": "C0ffee",
+    "name": "Rimworld-Animations",
+    "steamId": "",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-VoicePatch"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-XtraAnims"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-AnimalPatch"
   },
   {
     "author": "hodlhodl",
@@ -130,28 +738,10 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SirRandoo",
-    "name": "ToolkitRaids",
+    "name": "ToolkitUtils",
     "steamId": "",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "5.0.1.8"
   },
   {
     "author": "Andreas Pardeike",
@@ -160,69 +750,7 @@
     "version": "1.3.7.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "5.0.0.2"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Power++",
-    "steamId": "1771402217",
-    "version": "1.7.11"
-  },
-  {
-    "author": "NanoCE",
-    "name": "Glass+Lights"
-  },
-  {
-    "author": "Neceros",
-    "name": "Coal Expanded"
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Ceramics"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.8.1583"
-  },
-  {
-    "author": "Neceros",
-    "name": "Metal Don't Burn"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry 1.1",
-    "steamId": "2007576583",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture",
-    "steamId": "1558635181",
-    "version": "1.0.4"
-  },
-  {
-    "author": "Sztorno",
-    "name": "Industrialisation Rebuild"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots"
-  },
-  {
-    "author": "leion247",
-    "name": "Misc. Craftable Robots"
-  },
-  {
-    "author": "Vaniat",
-    "name": "Polarisbloc - Mechenemy"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils"
+    "author": "void",
+    "name": "Character Editor"
   }
 ]
