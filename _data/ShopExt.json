@@ -10862,6 +10862,48 @@
       ],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "SmokeleafFarmer",
+      "degree": 0,
+      "name": "smokeleaffarmer",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has a passion for gardening and smokeleaf. he gets a mood bonus for every plant he sows.",
+      "stats": [
+        "+5 plants",
+        "+15% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Stoner",
+      "degree": 0,
+      "name": "stoner",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has a high tolerance for smokeleaf. he rarely suffers any withdrawal effects.",
+      "stats": [
+        "Binging on drug mental state disabled.",
+        "Binging on drug mental state disabled.",
+        "Binging on food mental state disabled.",
+        "-10% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
