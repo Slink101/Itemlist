@@ -38,12 +38,6 @@
     "version": "1.1.2.1"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.2.3"
-  },
-  {
     "author": "Meltup",
     "name": "Beautiful Outdoors"
   },
@@ -56,6 +50,10 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Smokeleaf Industry Reborn"
   },
   {
     "author": "Oskar Potocki",
@@ -100,6 +98,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zylle",
+    "name": "Alpha Biomes: Materials Compatibility Patch"
+  },
+  {
     "author": "Avius",
     "name": "Prison Labor",
     "steamId": "1899474310",
@@ -114,10 +116,6 @@
     "name": "Raise The Roof 1.2",
     "steamId": "1776143665",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "TheGoofyOne",
-    "name": "420Reality"
   },
   {
     "author": "Fluffy",
@@ -218,6 +216,32 @@
     "name": "Defensive Machine Gun Turret Pack"
   },
   {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "Helldragger",
+    "name": "RimWorld - Heat statistics"
+  },
+  {
+    "author": "Helldragger",
+    "name": "Save our ship 2 - Heat statistics"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Statue Of Colonist Alien Race Patch"
+  },
+  {
+    "author": "æ°‘ç«",
+    "name": "Statue of Colonist AC Patch"
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Core"
   },
@@ -230,10 +254,6 @@
   {
     "author": "CE Team",
     "name": "Combat Extended Guns"
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Mechanoid Nerf for Combat Extended"
   },
   {
     "author": "Farmradish",
@@ -250,6 +270,16 @@
   {
     "author": "Jacketgun",
     "name": "CE patch for Rakkle the rattle snake Race mod"
+  },
+  {
+    "author": "N7Huntsman",
+    "name": "Mechanoid Nerf for Combat Extended"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.3.3"
   },
   {
     "author": "Nykot",
@@ -269,7 +299,7 @@
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cults (Continued)",
     "steamId": "2249174783",
-    "version": "1.0.2.0"
+    "version": "1.0.3.0"
   },
   {
     "author": "Nals",
@@ -352,13 +382,13 @@
     "name": "Rimsenal - Enhanced Vanilla Pack"
   },
   {
-    "author": "民火",
+    "author": "æ°‘ç«",
     "name": "Appearance clothes",
     "steamId": "1537867047",
     "version": "1.0.0.0"
   },
   {
-    "author": "民火",
+    "author": "æ°‘ç«",
     "name": "Appearance clothes - Humanoid Alien Races Patch"
   },
   {
@@ -478,6 +508,10 @@
     "name": "More Trade Ships"
   },
   {
+    "author": "Spino",
+    "name": "Megafauna"
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -510,6 +544,18 @@
     "name": "My Little Planet",
     "steamId": "1117406550",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.3"
+  },
+  {
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
   },
   {
     "author": "Vakaria",
@@ -550,11 +596,23 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "[cn]nuclear",
+    "name": "Modularization Weapon"
+  },
+  {
     "author": "Oskar Potocki, Trunken",
     "name": "Vanilla Weapons Expanded"
   },
   {
-    "author": "民火",
+    "author": "[cn]nuclear",
+    "name": "Modularization Weapon(for Vanilla Weapons Expanded)"
+  },
+  {
+    "author": "[cn]nuclear",
+    "name": "Modularization Weapon CE Patch"
+  },
+  {
+    "author": "æ°‘ç«",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
     "version": "1.0.0.0"
@@ -742,6 +800,18 @@
     "name": "ToolkitUtils",
     "steamId": "",
     "version": "5.0.1.8"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Andreas Pardeike",
