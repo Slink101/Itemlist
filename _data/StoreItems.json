@@ -2222,7 +2222,7 @@
     },
     {
       "abr": "cathoodie",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_CatHoodie",
       "price": 181
     },
@@ -8144,7 +8144,7 @@
     },
     {
       "abr": "nyaroncombatjacket",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_CatJacket",
       "price": 933
     },
@@ -8156,13 +8156,13 @@
     },
     {
       "abr": "nyaronmaidcostume",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_CatMaid",
       "price": 322
     },
     {
       "abr": "nyaronmaidhairband",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_CatMaidBand",
       "price": 93
     },
@@ -8174,13 +8174,13 @@
     },
     {
       "abr": "nyaronpowerarmor",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_PowerArmor",
       "price": 2633
     },
     {
       "abr": "nyaronsimpleuniform",
-      "category": "냐론 의류",
+      "category": "ëƒë¡  ì˜ë¥˜",
       "defname": "Nr_SUniform",
       "price": 34
     },
@@ -12871,6 +12871,1098 @@
       "price": 155
     },
     {
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "LWM_Clothing_Rack",
+      "price": 170
+    },
+    {
+      "abr": "doubleshelf",
+      "category": "Furniture",
+      "defname": "LWM_BigShelf",
+      "price": 224
+    },
+    {
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "LWM_Food_Basket",
+      "price": 270
+    },
+    {
+      "abr": "grandstatueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistKGrand",
+      "price": 1258
+    },
+    {
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "LWM_FabricHamper",
+      "price": 383
+    },
+    {
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "LWM_Hayloft",
+      "price": 287
+    },
+    {
+      "abr": "largestatueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistKLarge",
+      "price": 633
+    },
+    {
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "LWM_MealRack",
+      "price": 255
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "LWM_Meat_Hook",
+      "price": 254
+    },
+    {
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": 203
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "LWM_Pallet",
+      "price": 220
+    },
+    {
+      "abr": "palletwithwrapping",
+      "category": "Furniture",
+      "defname": "LWM_Pallet_Covered",
+      "price": 321
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": 305
+    },
+    {
+      "abr": "statueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistK",
+      "price": 358
+    },
+    {
+      "abr": "tallshelves",
+      "category": "Furniture",
+      "defname": "LWM_VeryBigShelf",
+      "price": 550
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
+      "price": 254
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
+      "price": 237
+    },
+    {
+      "abr": "4x-8xsniperscope",
+      "category": "Weapons Part",
+      "defname": "Item_4X_8XSniperScope",
+      "price": 433
+    },
+    {
+      "abr": "acog",
+      "category": "Weapons Part",
+      "defname": "Item_ACOG",
+      "price": 292
+    },
+    {
+      "abr": "adaptivechambering",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_AdaptiveChambering",
+      "price": 41
+    },
+    {
+      "abr": "adaptivechambering",
+      "category": "Weapons Part",
+      "defname": "Item_AdvancedCapacitor",
+      "price": 900
+    },
+    {
+      "abr": "andrewsarchus",
+      "category": "Animal",
+      "defname": "Andrewsarchus",
+      "price": 3667
+    },
+    {
+      "abr": "andrewsarchusmeat",
+      "category": "Meat",
+      "defname": "Meat_Andrewsarchus",
+      "price": 3
+    },
+    {
+      "abr": "armrack",
+      "category": "Weapons Part",
+      "defname": "Item_Armrack",
+      "price": 57
+    },
+    {
+      "abr": "arthropleura",
+      "category": "Animal",
+      "defname": "Arthropleura",
+      "price": 1500
+    },
+    {
+      "abr": "arthropleuraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggArthropleuraFertilized",
+      "price": 208
+    },
+    {
+      "abr": "assaultrifleammochain",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_AmmoChain",
+      "price": 211
+    },
+    {
+      "abr": "assaultrifle(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersAssaultRifle",
+      "price": 642
+    },
+    {
+      "abr": "aurochs",
+      "category": "Animal",
+      "defname": "Aurochs",
+      "price": 1500
+    },
+    {
+      "abr": "autopistolmagazine",
+      "category": "Weapons Part",
+      "defname": "Item_Autopistol_Magazine",
+      "price": 57
+    },
+    {
+      "abr": "autopistol(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersAutopistol",
+      "price": 281
+    },
+    {
+      "abr": "bolt-actionrifle(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersBoltActionRifle",
+      "price": 330
+    },
+    {
+      "abr": "cartridgeclip",
+      "category": "Weapons Part",
+      "defname": "Item_CartridgeClip",
+      "price": 41
+    },
+    {
+      "abr": "cartridgedrum",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_CartridgeDrum",
+      "price": 211
+    },
+    {
+      "abr": "castoroides",
+      "category": "Animal",
+      "defname": "Castoroides",
+      "price": 1667
+    },
+    {
+      "abr": "cbd",
+      "category": "Medicine",
+      "defname": "CBD",
+      "price": 30
+    },
+    {
+      "abr": "chainshotgunammochain",
+      "category": "Weapons Part",
+      "defname": "Item_ChainShotgun_AmmoChain",
+      "price": 195
+    },
+    {
+      "abr": "chainshotguncartridgedrum",
+      "category": "Weapons Part",
+      "defname": "Item_ChainShotgun_CartridgeDrum",
+      "price": 195
+    },
+    {
+      "abr": "chainshotgunmagazine",
+      "category": "Weapons Part",
+      "defname": "Item_ChainShotgun_Magazine",
+      "price": 110
+    },
+    {
+      "abr": "chainshotgun(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersChainShotgun",
+      "price": 458
+    },
+    {
+      "abr": "chalicotherium",
+      "category": "Animal",
+      "defname": "Chalicotherium",
+      "price": 2167
+    },
+    {
+      "abr": "chalicotheriummeat",
+      "category": "Meat",
+      "defname": "Meat_Chalicotherium",
+      "price": 3
+    },
+    {
+      "abr": "chargeriflebattery",
+      "category": "Weapons Part",
+      "defname": "Item_ChargeRifle_Battery",
+      "price": 567
+    },
+    {
+      "abr": "chargeriflelargebattery",
+      "category": "Weapons Part",
+      "defname": "Item_ChargeRifle_LargeBattery",
+      "price": 1050
+    },
+    {
+      "abr": "chargeriflepowerline",
+      "category": "Weapons Part",
+      "defname": "Item_ChargeRifle_PowerLine",
+      "price": 392
+    },
+    {
+      "abr": "chargerifle(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersChargeRifle",
+      "price": 1375
+    },
+    {
+      "abr": "chargesmgbattery",
+      "category": "Weapons Part",
+      "defname": "Item_ChargeSMG_Battery",
+      "price": 492
+    },
+    {
+      "abr": "chargesmglargbattery",
+      "category": "Weapons Part",
+      "defname": "Item_ChargeSMG_LargBattery",
+      "price": 975
+    },
+    {
+      "abr": "combatstock",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_StockC",
+      "price": 126
+    },
+    {
+      "abr": "crocodilemeat",
+      "category": "Meat",
+      "defname": "Meat_Quinkana",
+      "price": 3
+    },
+    {
+      "abr": "crudesmokeleafjoint",
+      "category": "Smokeleaf Drugs",
+      "defname": "CrudeSmokeleafJoint",
+      "price": 12
+    },
+    {
+      "abr": "cultivationbench",
+      "category": "Production",
+      "defname": "PoweredCultivationBench",
+      "price": 525
+    },
+    {
+      "abr": "daeodon",
+      "category": "Animal",
+      "defname": "Daeodon",
+      "price": 2667
+    },
+    {
+      "abr": "deinotherium",
+      "category": "Animal",
+      "defname": "Deinotherium",
+      "price": 2917
+    },
+    {
+      "abr": "deinotheriumtusk",
+      "category": "Items",
+      "defname": "DeinotheriumTusk",
+      "price": 1000
+    },
+    {
+      "abr": "devilsleaffabric",
+      "category": "Textiles",
+      "defname": "DevilsleafFabric",
+      "price": 12
+    },
+    {
+      "abr": "dinocrocuta",
+      "category": "Animal",
+      "defname": "Dinocrocuta",
+      "price": 2500
+    },
+    {
+      "abr": "dinocrocutameat",
+      "category": "Meat",
+      "defname": "Meat_Dinocrocuta",
+      "price": 3
+    },
+    {
+      "abr": "dinopithecus",
+      "category": "Animal",
+      "defname": "Dinopithecus",
+      "price": 2000
+    },
+    {
+      "abr": "dinornis",
+      "category": "Animal",
+      "defname": "Dinornis",
+      "price": 2833
+    },
+    {
+      "abr": "dinornisegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggDinornisFertilized",
+      "price": 117
+    },
+    {
+      "abr": "diprotodon",
+      "category": "Animal",
+      "defname": "Diprotodon",
+      "price": 2167
+    },
+    {
+      "abr": "diprotodonmeat",
+      "category": "Meat",
+      "defname": "Meat_Diprotodon",
+      "price": 3
+    },
+    {
+      "abr": "doedicurus",
+      "category": "Animal",
+      "defname": "Doedicurus",
+      "price": 1833
+    },
+    {
+      "abr": "doedicurusmeat",
+      "category": "Meat",
+      "defname": "Meat_Doedicurus",
+      "price": 3
+    },
+    {
+      "abr": "doedicurusshell",
+      "category": "Items",
+      "defname": "DoedicurusShell",
+      "price": 1333
+    },
+    {
+      "abr": "elasmotherium",
+      "category": "Animal",
+      "defname": "Elasmotherium",
+      "price": 2167
+    },
+    {
+      "abr": "elasmotheriumhorn",
+      "category": "Items",
+      "defname": "ElasmotheriumHorn",
+      "price": 2500
+    },
+    {
+      "abr": "elasmotheriumwool",
+      "category": "Textiles",
+      "defname": "ElasmotheriumWool",
+      "price": 8
+    },
+    {
+      "abr": "enhydriodon",
+      "category": "Animal",
+      "defname": "Enhydriodon",
+      "price": 2167
+    },
+    {
+      "abr": "flamedamper",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_FlameDamper",
+      "price": 57
+    },
+    {
+      "abr": "gigantophis",
+      "category": "Animal",
+      "defname": "Gigantophis",
+      "price": 4167
+    },
+    {
+      "abr": "gigantophisegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggGigantophisFertilized",
+      "price": 300
+    },
+    {
+      "abr": "gigantopithecus",
+      "category": "Animal",
+      "defname": "Gigantopithecus",
+      "price": 2333
+    },
+    {
+      "abr": "gomphotaria",
+      "category": "Animal",
+      "defname": "Gomphotaria",
+      "price": 3333
+    },
+    {
+      "abr": "grenadelauncher",
+      "category": "Weapons Part",
+      "defname": "Item_GrenadeLauncher",
+      "price": 367
+    },
+    {
+      "abr": "grip",
+      "category": "Weapons Part",
+      "defname": "Item_Grip",
+      "price": 57
+    },
+    {
+      "abr": "heavysmgammochain",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_AmmoChain",
+      "price": 179
+    },
+    {
+      "abr": "heavysmg(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersHeavySMG",
+      "price": 550
+    },
+    {
+      "abr": "hempbiocoal",
+      "category": "Manufactured",
+      "defname": "HempBiocoal",
+      "price": 2
+    },
+    {
+      "abr": "hempbiocomposite",
+      "category": "Manufactured",
+      "defname": "HempBiocomposite",
+      "price": 4
+    },
+    {
+      "abr": "hempfabric",
+      "category": "Textiles",
+      "defname": "HempFabric",
+      "price": 3
+    },
+    {
+      "abr": "hempfibers",
+      "category": "Plant matter",
+      "defname": "HempFiber",
+      "price": 1
+    },
+    {
+      "abr": "hempflour",
+      "category": "Vegetarian",
+      "defname": "HempFlour",
+      "price": 5
+    },
+    {
+      "abr": "hempmilk",
+      "category": "Animal products",
+      "defname": "HempMilk",
+      "price": 4
+    },
+    {
+      "abr": "hempnanosheet",
+      "category": "Manufactured",
+      "defname": "HempNanosheet",
+      "price": 21
+    },
+    {
+      "abr": "hempprotein",
+      "category": "Meat",
+      "defname": "HempProtein",
+      "price": 4
+    },
+    {
+      "abr": "hempcreteblocks",
+      "category": "Stone blocks",
+      "defname": "BlocksHempcrete",
+      "price": 2
+    },
+    {
+      "abr": "hempenebattery",
+      "category": "Power",
+      "defname": "HempBattery",
+      "price": 1342
+    },
+    {
+      "abr": "hempoline",
+      "category": "Manufactured",
+      "defname": "Hempoline",
+      "price": 4
+    },
+    {
+      "abr": "holographic",
+      "category": "Weapons Part",
+      "defname": "Item_Holographic",
+      "price": 254
+    },
+    {
+      "abr": "infusedmeal",
+      "category": "Meals",
+      "defname": "MealInfused",
+      "price": 54
+    },
+    {
+      "abr": "infusedmedicine",
+      "category": "Medicine",
+      "defname": "InfusedMedicine",
+      "price": 71
+    },
+    {
+      "abr": "josephoartigasia",
+      "category": "Animal",
+      "defname": "Josephoartigasia",
+      "price": 1833
+    },
+    {
+      "abr": "josephoartigasiameat",
+      "category": "Meat",
+      "defname": "Meat_Josephoartigasia",
+      "price": 3
+    },
+    {
+      "abr": "josephoartigasiawool",
+      "category": "Textiles",
+      "defname": "JosephoartigasiaWool",
+      "price": 6
+    },
+    {
+      "abr": "kangaroomeat",
+      "category": "Meat",
+      "defname": "Meat_Procoptodon",
+      "price": 3
+    },
+    {
+      "abr": "largecalibermuffler",
+      "category": "Weapons Part",
+      "defname": "Item_ChainShotgun_Muffler",
+      "price": 88
+    },
+    {
+      "abr": "lengthenedbarrel",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_LengthenedBarrel",
+      "price": 57
+    },
+    {
+      "abr": "lightgrenadelauncher",
+      "category": "Weapons Part",
+      "defname": "Item_LightGrenadeLauncher",
+      "price": 220
+    },
+    {
+      "abr": "lizardmeat",
+      "category": "Meat",
+      "defname": "Meat_Megalania",
+      "price": 3
+    },
+    {
+      "abr": "machinepistol(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersMachinePistol",
+      "price": 508
+    },
+    {
+      "abr": "macrauchenia",
+      "category": "Animal",
+      "defname": "Macrauchenia",
+      "price": 1667
+    },
+    {
+      "abr": "macraucheniameat",
+      "category": "Meat",
+      "defname": "Meat_Macrauchenia",
+      "price": 3
+    },
+    {
+      "abr": "magazine",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_Magazine",
+      "price": 110
+    },
+    {
+      "abr": "mammothtusk",
+      "category": "Items",
+      "defname": "MammothTusk",
+      "price": 1167
+    },
+    {
+      "abr": "mammothwool",
+      "category": "Textiles",
+      "defname": "MammothWool",
+      "price": 6
+    },
+    {
+      "abr": "masterkeyshotgun",
+      "category": "Weapons Part",
+      "defname": "Item_Masterkey",
+      "price": 492
+    },
+    {
+      "abr": "medicinalslab",
+      "category": "Production",
+      "defname": "MedicinalsLab",
+      "price": 767
+    },
+    {
+      "abr": "megalania",
+      "category": "Animal",
+      "defname": "Megalania",
+      "price": 3000
+    },
+    {
+      "abr": "megalaniaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggMegalaniaFertilized",
+      "price": 150
+    },
+    {
+      "abr": "megaloceros",
+      "category": "Animal",
+      "defname": "Megaloceros",
+      "price": 1833
+    },
+    {
+      "abr": "megalocerosantlers",
+      "category": "Items",
+      "defname": "MegalocerosAntlers",
+      "price": 2083
+    },
+    {
+      "abr": "megalochelys",
+      "category": "Animal",
+      "defname": "Megalochelys",
+      "price": 2333
+    },
+    {
+      "abr": "megalochelysegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggMegalochelysFertilized",
+      "price": 267
+    },
+    {
+      "abr": "meganeura",
+      "category": "Animal",
+      "defname": "Meganeura",
+      "price": 1250
+    },
+    {
+      "abr": "meganeuraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggMeganeuraFertilized",
+      "price": 117
+    },
+    {
+      "abr": "muffler",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_Muffler",
+      "price": 88
+    },
+    {
+      "abr": "muzzlebrake",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_MuzzleBrake",
+      "price": 57
+    },
+    {
+      "abr": "muzzlecompensator",
+      "category": "Weapons Part",
+      "defname": "Item_AssaultRifle_MuzzleCompensator",
+      "price": 57
+    },
+    {
+      "abr": "nutrileafbar(smokeleaf)",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafNutriLeaf",
+      "price": 12
+    },
+    {
+      "abr": "ottermeat",
+      "category": "Meat",
+      "defname": "Meat_Enhydriodon",
+      "price": 3
+    },
+    {
+      "abr": "palaeeudyptes",
+      "category": "Animal",
+      "defname": "Palaeeudyptes",
+      "price": 1833
+    },
+    {
+      "abr": "palaeeudyptesegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggPalaeeudyptesFertilized",
+      "price": 217
+    },
+    {
+      "abr": "paraceratherium",
+      "category": "Animal",
+      "defname": "Paraceratherium",
+      "price": 6167
+    },
+    {
+      "abr": "planter",
+      "category": "Furniture",
+      "defname": "MSI_StonePlanter",
+      "price": 121
+    },
+    {
+      "abr": "planter",
+      "category": "Furniture",
+      "defname": "MSI_WoodenPlanter",
+      "price": 119
+    },
+    {
+      "abr": "platybelodon",
+      "category": "Animal",
+      "defname": "Platybelodon",
+      "price": 2000
+    },
+    {
+      "abr": "platybelodontusk",
+      "category": "Items",
+      "defname": "PlatybelodonTusk",
+      "price": 583
+    },
+    {
+      "abr": "procoptodon",
+      "category": "Animal",
+      "defname": "Procoptodon",
+      "price": 1833
+    },
+    {
+      "abr": "pulmonoscorpius",
+      "category": "Animal",
+      "defname": "Pulmonoscorpius",
+      "price": 1750
+    },
+    {
+      "abr": "pumpshotgun(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersPumpShotgun",
+      "price": 273
+    },
+    {
+      "abr": "purussaurus",
+      "category": "Animal",
+      "defname": "Purussaurus",
+      "price": 5333
+    },
+    {
+      "abr": "purussaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggPurussaurusFertilized",
+      "price": 333
+    },
+    {
+      "abr": "quinkana",
+      "category": "Animal",
+      "defname": "Quinkana",
+      "price": 3333
+    },
+    {
+      "abr": "quinkanaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggQuinkanaFertilized",
+      "price": 150
+    },
+    {
+      "abr": "reddot",
+      "category": "Weapons Part",
+      "defname": "Item_RedDot",
+      "price": 156
+    },
+    {
+      "abr": "revolver(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersRevolver",
+      "price": 244
+    },
+    {
+      "abr": "serviceriflecartridgedrum",
+      "category": "Weapons Part",
+      "defname": "Item_ServiceRifle_CartridgeDrum",
+      "price": 975
+    },
+    {
+      "abr": "serviceriflemagazine",
+      "category": "Weapons Part",
+      "defname": "Item_ServiceRifle_Magazine",
+      "price": 492
+    },
+    {
+      "abr": "short-facedbear",
+      "category": "Animal",
+      "defname": "ShortfacedBear",
+      "price": 2833
+    },
+    {
+      "abr": "shotgunbuncher",
+      "category": "Weapons Part",
+      "defname": "Item_ChainShotgun_Buncher",
+      "price": 57
+    },
+    {
+      "abr": "simplestock",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_StockS",
+      "price": 57
+    },
+    {
+      "abr": "sivatherium",
+      "category": "Animal",
+      "defname": "Sivatherium",
+      "price": 3000
+    },
+    {
+      "abr": "sivatheriummeat",
+      "category": "Meat",
+      "defname": "Meat_Sivatherium",
+      "price": 3
+    },
+    {
+      "abr": "sivatheriummilk",
+      "category": "Animal products",
+      "defname": "SivatheriumMilk",
+      "price": 12
+    },
+    {
+      "abr": "smgcartridgedrum",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_CartridgeDrum",
+      "price": 195
+    },
+    {
+      "abr": "smgmagazine",
+      "category": "Weapons Part",
+      "defname": "Item_HeavySMG_Magazine",
+      "price": 110
+    },
+    {
+      "abr": "smilodon",
+      "category": "Animal",
+      "defname": "Smilodon",
+      "price": 2000
+    },
+    {
+      "abr": "smilodonfangs",
+      "category": "Items",
+      "defname": "SmilodonFangs",
+      "price": 1333
+    },
+    {
+      "abr": "smokeleafautotrimmer",
+      "category": "Production",
+      "defname": "SmokeleafAutoTrimmer",
+      "price": 1142
+    },
+    {
+      "abr": "smokeleafbrownie",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafBrownie",
+      "price": 12
+    },
+    {
+      "abr": "smokeleafbuds",
+      "category": "Plant matter",
+      "defname": "SmokeleafBuds",
+      "price": 2
+    },
+    {
+      "abr": "smokeleafbutter",
+      "category": "Vegetarian",
+      "defname": "SmokeleafButter",
+      "price": 17
+    },
+    {
+      "abr": "smokeleafcandy",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafCandy",
+      "price": 13
+    },
+    {
+      "abr": "smokeleafcannagar",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafCannagar",
+      "price": 78
+    },
+    {
+      "abr": "smokeleafcookie",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafCookie",
+      "price": 15
+    },
+    {
+      "abr": "smokeleafde-energydrink",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafDeEnergyDrink",
+      "price": 52
+    },
+    {
+      "abr": "smokeleafdistillate",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafDistillate",
+      "price": 52
+    },
+    {
+      "abr": "smokeleafhash",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafHash",
+      "price": 23
+    },
+    {
+      "abr": "smokeleafhashoil",
+      "category": "Smokeleaf Drugs",
+      "defname": "CHO",
+      "price": 32
+    },
+    {
+      "abr": "smokeleaflotion",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafLotion",
+      "price": 57
+    },
+    {
+      "abr": "smokeleafpills",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafPills",
+      "price": 53
+    },
+    {
+      "abr": "smokeleafseed",
+      "category": "Plant matter",
+      "defname": "SmokeleafSeed",
+      "price": 1
+    },
+    {
+      "abr": "smokeleafseedoil",
+      "category": "Vegetarian",
+      "defname": "SmokeleafSeedOil",
+      "price": 4
+    },
+    {
+      "abr": "smokeleafsmoothie",
+      "category": "Smokeleaf Edibles",
+      "defname": "SmokeleafSmoothie",
+      "price": 59
+    },
+    {
+      "abr": "smokeleaftincture",
+      "category": "Smokeleaf Drugs",
+      "defname": "SmokeleafTincture",
+      "price": 58
+    },
+    {
+      "abr": "snakemeat",
+      "category": "Meat",
+      "defname": "Meat_Titanoboa",
+      "price": 3
+    },
+    {
+      "abr": "sniperrifle(canuseweaponattachments)",
+      "category": "Ranged weapons",
+      "defname": "Gun_TinkersSniperRifle",
+      "price": 692
+    },
+    {
+      "abr": "spacebucket",
+      "category": "Furniture",
+      "defname": "SpaceBucket",
+      "price": 303
+    },
+    {
+      "abr": "titanis",
+      "category": "Animal",
+      "defname": "Titanis",
+      "price": 1667
+    },
+    {
+      "abr": "titanisegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggTitanisFertilized",
+      "price": 133
+    },
+    {
+      "abr": "titanoboa",
+      "category": "Animal",
+      "defname": "Titanoboa",
+      "price": 4500
+    },
+    {
+      "abr": "titanoboaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggTitanoboaFertilized",
+      "price": 333
+    },
+    {
+      "abr": "trianglegrip",
+      "category": "Weapons Part",
+      "defname": "Item_TriangleGrip",
+      "price": 57
+    },
+    {
+      "abr": "trimmingtools",
+      "category": "Misc",
+      "defname": "TrimmingTools",
+      "price": 332
+    },
+    {
+      "abr": "uintatherium",
+      "category": "Animal",
+      "defname": "Uintatherium",
+      "price": 1667
+    },
+    {
+      "abr": "uintatheriummeat",
+      "category": "Meat",
+      "defname": "Meat_Uintatherium",
+      "price": 3
+    },
+    {
+      "abr": "walrusmeat",
+      "category": "Meat",
+      "defname": "Meat_Gomphotaria",
+      "price": 3
+    },
+    {
+      "abr": "woollymammoth",
+      "category": "Animal",
+      "defname": "WoollyMammoth",
+      "price": 2500
+    },
+    {
+      "abr": "zygolophodon",
+      "category": "Animal",
+      "defname": "Zygolophodon",
+      "price": 3167
+    },
+    {
+      "abr": "zygolophodontusk",
+      "category": "Items",
+      "defname": "ZygolophodonTusk",
+      "price": 1667
+    },
+    {
       "abr": "guestadvancedbed",
       "category": "Furniture",
       "defname": "Bed_AdvBedGuest",
@@ -13015,5 +14107,5 @@
       "price": 3333
     }
   ],
-  "total": 2169
+  "total": 2351
 }
