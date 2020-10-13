@@ -10873,7 +10873,12 @@
       "name": "smokeleaffarmer",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+5 plants",
+          "+15% global work speed"
+        ]
       },
       "description": "Timmy has a passion for gardening and smokeleaf. he gets a mood bonus for every plant he sows.",
       "stats": [
@@ -10893,7 +10898,14 @@
       "name": "stoner",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "Binging on drug mental state disabled.",
+          "Binging on drug mental state disabled.",
+          "Binging on food mental state disabled.",
+          "-10% mental break threshold"
+        ]
       },
       "description": "Timmy has a high tolerance for smokeleaf. he rarely suffers any withdrawal effects.",
       "stats": [
