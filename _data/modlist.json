@@ -6,6 +6,12 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -32,14 +38,36 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.1.2.1"
+    "version": "1.1.2.2"
   },
   {
     "author": "Meltup",
     "name": "Beautiful Outdoors"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0.0"
   },
   {
     "author": "tikubonn",
@@ -70,6 +98,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "notfood",
+    "name": "ResearchPal",
+    "steamId": "946390822",
+    "version": "1.1.3.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -78,6 +112,12 @@
   {
     "author": "BookBurner",
     "name": "Jecs Tobacco and Cigarettes (Continued)"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3",
+    "steamId": "2038409475",
+    "version": "1.0.0.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -92,6 +132,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "dninemfive",
+    "name": "Settlement Descriptions"
+  },
+  {
     "author": "Sarg",
     "name": "Alpha Biomes",
     "steamId": "1841354677",
@@ -100,12 +144,6 @@
   {
     "author": "Zylle",
     "name": "Alpha Biomes: Materials Compatibility Patch"
-  },
-  {
-    "author": "Avius",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "0.10.7520.584"
   },
   {
     "author": "Oskar Potocki, dninemfive, Kikohi",
@@ -165,7 +203,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1603"
+    "version": "2.8.1624"
   },
   {
     "author": "Spincrus",
@@ -182,6 +220,12 @@
   {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.4.01"
   },
   {
     "author": "Dubwise",
@@ -212,12 +256,26 @@
     "name": "Bad Can Be Good"
   },
   {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "2242846132",
+    "version": "1.22.0.1"
+  },
+  {
     "author": "Coalcat and sumghai",
     "name": "Defensive Machine Gun Turret Pack"
   },
   {
+    "author": "Chicken Plucker",
+    "name": "[CP] Metal Gear Solid - CQC (JecsTools)"
+  },
+  {
     "author": "gguake",
     "name": "Simple Search Bar"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[CP] Metal Gear Solid"
   },
   {
     "author": "Helldragger",
@@ -235,6 +293,16 @@
   },
   {
     "author": "民火",
+    "name": "Appearance clothes",
+    "steamId": "1537867047",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Appearance clothes - Humanoid Alien Races Patch"
+  },
+  {
+    "author": "民火",
     "name": "Statue Of Colonist Alien Race Patch"
   },
   {
@@ -242,48 +310,26 @@
     "name": "Statue of Colonist AC Patch"
   },
   {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force (Continued)",
+    "steamId": "2263227169",
+    "version": "1.0.2.0"
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Core"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Guns"
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race"
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race CE Patch"
-  },
-  {
-    "author": "JKV",
-    "name": "Rakkle the rattle snake Race mod"
-  },
-  {
-    "author": "Jacketgun",
-    "name": "CE patch for Rakkle the rattle snake Race mod"
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Mechanoid Nerf for Combat Extended"
   },
   {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.3.3"
+    "version": "2.5.3.5"
   },
   {
     "author": "Nykot",
-    "name": "RPG Style Inventory CE Revived [1.2]"
+    "name": "Sandy's RPG Style Inventory [1.2]",
+    "steamId": "2204419561",
+    "version": "1.0.0"
   },
   {
     "author": "ssulunge",
@@ -382,16 +428,6 @@
     "name": "Rimsenal - Enhanced Vanilla Pack"
   },
   {
-    "author": "民火",
-    "name": "Appearance clothes",
-    "steamId": "1537867047",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Appearance clothes - Humanoid Alien Races Patch"
-  },
-  {
     "author": "rooki1",
     "name": "Rimsenal - Storyteller pack"
   },
@@ -456,10 +492,6 @@
   {
     "author": "Orion",
     "name": "Hospitality"
-  },
-  {
-    "author": "N7Huntsman, WereCat88",
-    "name": "Rimsenal + Combat Extended Compatibility Mega Patch"
   },
   {
     "author": "Telefonmast",
@@ -540,16 +572,10 @@
     "version": "1.2.1.0"
   },
   {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.3"
+    "version": "1.2.0.4"
   },
   {
     "author": "fridgeBaron",
@@ -606,10 +632,6 @@
   {
     "author": "[cn]nuclear",
     "name": "Modularization Weapon(for Vanilla Weapons Expanded)"
-  },
-  {
-    "author": "[cn]nuclear",
-    "name": "Modularization Weapon CE Patch"
   },
   {
     "author": "民火",
@@ -746,10 +768,32 @@
     "name": "Lizardmen"
   },
   {
+    "author": "Roskii",
+    "name": "Astoriel"
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Naharri and EvilChaosKnight",
+    "name": "Kilhn Race"
+  },
+  {
     "author": "Kikohi",
     "name": "Forsakens",
     "steamId": "1728999127",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race"
+  },
+  {
+    "author": "JKV",
+    "name": "Rakkle the rattle snake Race mod"
   },
   {
     "author": "Summin",
@@ -759,7 +803,7 @@
     "author": "Ed86",
     "name": "RimJobWorld",
     "steamId": "",
-    "version": "4.4.9"
+    "version": "4.4.11"
   },
   {
     "author": "Abraxas",
@@ -799,13 +843,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "",
-    "version": "5.0.1.8"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "5.0.1.10"
   },
   {
     "author": "hodlhodl",
