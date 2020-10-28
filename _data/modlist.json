@@ -30,6 +30,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gunplay",
     "steamId": "2034896549",
@@ -40,20 +52,56 @@
     "name": "Simple sidearms"
   },
   {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.5.0"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius"
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragon's Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Decent: Void Dwellers"
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls Enhanced Patch",
+    "steamId": "2014872486",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Roolo",
     "name": "Dual Wield",
     "steamId": "1628211313",
     "version": "0.5.0.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.1.2.2"
-  },
-  {
     "author": "Meltup",
     "name": "Beautiful Outdoors"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2"
   },
   {
     "author": "Neronix17",
@@ -114,10 +162,6 @@
     "version": "3.0.8.0"
   },
   {
-    "author": "BookBurner",
-    "name": "Jecs Tobacco and Cigarettes (Continued)"
-  },
-  {
     "author": "YAYO",
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
@@ -157,6 +201,12 @@
     "author": "Machine",
     "name": "Raise The Roof 1.2",
     "steamId": "1776143665",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Universal Fermenter",
+    "steamId": "2073225100",
     "version": "1.0.0.0"
   },
   {
@@ -246,14 +296,10 @@
     "version": "1.3.688"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1624"
+    "version": "2.8.1630"
   },
   {
     "author": "Spincrus",
@@ -388,6 +434,12 @@
     "name": "Vanilla Animals Expanded — Extreme Desert"
   },
   {
+    "author": "Arquebus",
+    "name": "Hotseat - Dynamic Storyteller Switcher",
+    "steamId": "2175327693",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Animals Expanded — Desert"
   },
@@ -397,21 +449,17 @@
   },
   {
     "author": "民火",
-    "name": "Statue Of Colonist Alien Race Patch"
+    "name": "Statue of Colonist AC Patch"
   },
   {
     "author": "民火",
-    "name": "Statue of Colonist AC Patch"
+    "name": "Statue Of Colonist Alien Race Patch"
   },
   {
     "author": "Xen and Jecrell",
     "name": "Star Wars - The Force (Continued)",
     "steamId": "2263227169",
     "version": "1.0.2.0"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core"
   },
   {
     "author": "Torann",
@@ -439,7 +487,7 @@
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cults (Continued)",
     "steamId": "2249174783",
-    "version": "1.0.3.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "Nals",
@@ -456,12 +504,6 @@
   {
     "author": "Aelanna",
     "name": "Eccentric Tech - Foxy's Armory"
-  },
-  {
-    "author": "NilchEi",
-    "name": "Dynamic Diplomacy",
-    "steamId": "1875168898",
-    "version": "1.0.0.0"
   },
   {
     "author": "Saakra",
@@ -526,20 +568,8 @@
     "name": "Magical Menagerie"
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Enhanced Vanilla Pack"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Storyteller pack"
-  },
-  {
     "author": "Mlie",
     "name": "Fallout Traits (Continued)"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Security pack"
   },
   {
     "author": "Syrchalis",
@@ -550,14 +580,6 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Rimhair"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Feral Faction Pack"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack"
   },
   {
     "author": "Ratys",
@@ -644,10 +666,6 @@
   {
     "author": "PinoChemicali",
     "name": "More Trade Ships"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
   },
   {
     "author": "Spino",
@@ -792,10 +810,6 @@
     "name": "Stackable Chunks"
   },
   {
-    "author": "WGFLASH55",
-    "name": "Circle And Oval"
-  },
-  {
     "author": "Indeed",
     "name": "Stack XXL"
   },
@@ -870,8 +884,20 @@
     "name": "Argonians of Blackmarsh (Continued)"
   },
   {
+    "author": "MoriShep, Tarojun, Lucky",
+    "name": "Oni of the Rim"
+  },
+  {
+    "author": "Fox with a Shotgun",
+    "name": "Revia Race"
+  },
+  {
     "author": "Naharri and EvilChaosKnight",
     "name": "Kilhn Race"
+  },
+  {
+    "author": "Zamnath",
+    "name": "Black Widows (Continued)"
   },
   {
     "author": "Kikohi",
