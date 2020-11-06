@@ -6,12 +6,6 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -24,22 +18,94 @@
     "version": "3.8.1038"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
     "version": "1.1.2.2"
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.7546.40571"
+    "author": "Kikohi, Trunken",
+    "name": "Advanced Parka"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "LachlanEaston",
+    "name": "LBE's A Dog Said Easy Patcher"
+  },
+  {
+    "author": "Nandonalt (Maintained by McKay)",
+    "name": "Colony Leadership"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "WGFLASH55",
+    "name": "Circle And Oval"
+  },
+  {
+    "author": "WiseClock, fork: AtrociousCollector",
+    "name": "Days Matter (fork)",
+    "steamId": "2045496988",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH] Faction: Militaires Sans Frontieres"
+  },
+  {
+    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Better Transhumanists"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Kill For Me",
+    "steamId": "1629854111",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7529.23144"
+  },
+  {
+    "author": "TwoWolfStyle",
+    "name": "Hunting Squad"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Guards For Me",
+    "steamId": "1855885448",
+    "version": "3.0.2.0"
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -48,8 +114,34 @@
     "version": "1.0.379.0018"
   },
   {
+    "author": "NEPH, Maxim",
+    "name": "Utility Columns"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Solar Flares Affect Mechanoids",
+    "steamId": "1906174567",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed"
+  },
+  {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "Mobius",
+    "name": "Royalty Tweaks",
+    "steamId": "2018384424",
+    "version": "1.0.0.0"
   },
   {
     "author": "Torann",
@@ -104,6 +196,16 @@
     "name": "Save Our Ship 2"
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work"
+  },
+  {
+    "author": "Gewen, Swenzi, and Alias",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Neronix17",
     "name": "[O21] Toolbox",
     "steamId": "1660622094",
@@ -113,6 +215,12 @@
     "author": "Neronix17",
     "name": "[O21] Forgotten Realms",
     "steamId": "2184183669",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] HD Pawns",
+    "steamId": "2275310562",
     "version": "1.0.0.0"
   },
   {
@@ -159,7 +267,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.0.8.0"
+    "version": "3.0.9.0"
   },
   {
     "author": "YAYO",
@@ -232,6 +340,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Helixien, Taranchuk",
+    "name": "[HLX] ReGrowth - Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -299,7 +413,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1630"
+    "version": "2.8.1635"
   },
   {
     "author": "Spincrus",
@@ -434,12 +548,6 @@
     "name": "Vanilla Animals Expanded — Extreme Desert"
   },
   {
-    "author": "Arquebus",
-    "name": "Hotseat - Dynamic Storyteller Switcher",
-    "steamId": "2175327693",
-    "version": "1.0.1.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Animals Expanded — Desert"
   },
@@ -509,7 +617,7 @@
     "author": "Saakra",
     "name": "Empire",
     "steamId": "2006535182",
-    "version": "0.331"
+    "version": "0.337"
   },
   {
     "author": "PinoChemicali",
@@ -548,6 +656,10 @@
   {
     "author": "Alaestor",
     "name": "Misc. Robots++"
+  },
+  {
+    "author": "H4nsH3inrich",
+    "name": "Robots++ Patch for Rimfeller"
   },
   {
     "author": "Crlsniper",
@@ -642,10 +754,6 @@
     "name": "Gloomy Face mk2"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Battle Mounts"
   },
@@ -655,7 +763,9 @@
   },
   {
     "author": "Oskar Potocki, Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches"
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": "2260012940",
+    "version": "1.1.0.0"
   },
   {
     "author": "Dubwise",
@@ -889,7 +999,9 @@
   },
   {
     "author": "Fox with a Shotgun",
-    "name": "Revia Race"
+    "name": "Revia Race",
+    "steamId": "2020041005",
+    "version": "1.0.0.0"
   },
   {
     "author": "Naharri and EvilChaosKnight",
