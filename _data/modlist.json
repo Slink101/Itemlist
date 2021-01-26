@@ -10,6 +10,10 @@
     "name": "A Dog Said... Animal Prosthetics"
   },
   {
+    "author": "LachlanEaston",
+    "name": "LBE's A Dog Said Easy Patcher"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -31,7 +35,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.4.5"
+    "version": "2.5.4.8"
   },
   {
     "author": "Fluffy",
@@ -42,12 +46,6 @@
   {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0.0"
   },
   {
     "author": "Avius",
@@ -96,42 +94,6 @@
     "name": "Star Wars - Fully Functional Lightsabers (Continued)"
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Core"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Clone Wars",
-    "steamId": "1927827588",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Csilla",
-    "steamId": "1927829068",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Mandalore"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Mon Cala"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Old Republic"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Outer Rim - Shili"
-  },
-  {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Stackable Chunks"
-  },
-  {
     "author": "Indeed",
     "name": "Stack XXL"
   },
@@ -140,10 +102,16 @@
     "name": "Stabilize"
   },
   {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.7.0"
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "0.7.1"
+    "version": "0.7.3"
   },
   {
     "author": "Neceros",
@@ -211,7 +179,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.4"
+    "version": "1.2.0.7"
   },
   {
     "author": "ssulunge",
@@ -286,10 +254,6 @@
     "name": "Misc. Craftable Robots Retexture"
   },
   {
-    "author": "LachlanEaston",
-    "name": "LBE's A Dog Said Easy Patcher"
-  },
-  {
     "author": "Bob",
     "name": "[1.1]DraggableCorners"
   },
@@ -302,6 +266,12 @@
     "name": "DontBlockDoor[1.0-1.2]"
   },
   {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Spincrus",
     "name": "Dinosauria"
   },
@@ -310,14 +280,12 @@
     "name": "Defensive Positions"
   },
   {
-    "author": "Alias",
-    "name": "De-generalize Work"
+    "author": "zhrock11",
+    "name": "Stackable Chunks [Continued]"
   },
   {
-    "author": "WiseClock, fork: AtrociousCollector",
-    "name": "Days Matter (fork)",
-    "steamId": "2045496988",
-    "version": "1.0.0.0"
+    "author": "Alias",
+    "name": "De-generalize Work"
   },
   {
     "author": "Nandonalt (Maintained by McKay)",
@@ -326,10 +294,6 @@
   {
     "author": "Daniledman",
     "name": "Cyber Fauna 1.2"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Apparel Expanded"
   },
   {
     "author": "gguake",
@@ -448,10 +412,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Tundra"
   },
@@ -491,7 +451,7 @@
     "author": "Dubwise",
     "name": "Dubs Skylights",
     "steamId": "833899765",
-    "version": "1.5.1369"
+    "version": "1.5.1471"
   },
   {
     "author": "Orion",
@@ -548,10 +508,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "BookBurner",
-    "name": "Jecs Tobacco and Cigarettes (Continued)"
-  },
-  {
     "author": "Jaxe",
     "name": "Interaction Bubbles"
   },
@@ -561,7 +517,9 @@
   },
   {
     "author": "Vaniat",
-    "name": "Incident Person Stat"
+    "name": "Incident Person Stat",
+    "steamId": "1414697588",
+    "version": "1.0.0.0"
   },
   {
     "author": "TwoWolfStyle",
@@ -692,6 +650,14 @@
     "name": "Fahrenheit and Celsius"
   },
   {
+    "author": "JangoD'soul",
+    "name": "[JDS] EFT Apparel"
+  },
+  {
+    "author": "uniinu",
+    "name": "ラミア"
+  },
+  {
     "author": "Chicken Plucker",
     "name": "[RH] Faction: Militaires Sans Frontieres"
   },
@@ -719,11 +685,7 @@
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.944"
-  },
-  {
-    "author": "Stormtail",
-    "name": "Save Our Ship 2 - Extensions (Playground Legacy Version)"
+    "version": "1.2.965"
   },
   {
     "author": "dninemfive",
@@ -731,7 +693,63 @@
   },
   {
     "author": "Sarg",
-    "name": "Smart Speed"
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "Alpha Biomes: Materials Compatibility Patch"
+  },
+  {
+    "author": "Machine",
+    "name": "Better Infestations 1.2",
+    "steamId": "1319614331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "WGFLASH55",
+    "name": "Circle And Oval"
+  },
+  {
+    "author": "Magical Liopleurodon",
+    "name": "Non-Flammable Metal (1.0-1.2)"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7660.40384"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.7603.566"
+  },
+  {
+    "author": "Lumi",
+    "name": "Star Wars Slave Bikini Outfit"
+  },
+  {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.4.01"
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie"
   },
   {
     "author": "Lanilor",
@@ -770,16 +788,6 @@
     "name": "Save our ship 2 - Heat statistics"
   },
   {
-    "author": "Nykot",
-    "name": "Sandy's RPG Style Inventory [1.2]",
-    "steamId": "2204419561",
-    "version": "1.0.0"
-  },
-  {
-    "author": "The Worker Of Month",
-    "name": "Russian traditional food"
-  },
-  {
     "author": "Torann",
     "name": "Rim War",
     "steamId": "2222935097",
@@ -816,6 +824,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
@@ -826,14 +838,10 @@
     "name": "RimWorld - Heat statistics"
   },
   {
-    "author": "Dark_Inquisitor",
-    "name": "Ushanka! 1.1(Continued)"
-  },
-  {
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.3.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "H4nsH3inrich",
@@ -853,7 +861,7 @@
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cults (Continued)",
     "steamId": "2249174783",
-    "version": "1.0.8.0"
+    "version": "1.0.14.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -871,7 +879,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.0.4.0"
+    "version": "2.1.1.0"
   },
   {
     "author": "Smash Phil | Dr_Zhivago",
@@ -960,12 +968,6 @@
   {
     "author": "Sam",
     "name": "Tilled Soil"
-  },
-  {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
   },
   {
     "author": "zyxabacab",
@@ -1076,24 +1078,30 @@
     "name": "Dragonkin"
   },
   {
-    "author": "MaroonToon",
-    "name": "Kurin RJW Edition"
+    "author": "Seioch",
+    "name": "Kurin HAR Edition"
   },
   {
     "author": "Ed86",
     "name": "RimJobWorld",
     "steamId": "",
-    "version": "4.5.4"
+    "version": "4.5.6"
   },
   {
     "author": "Abraxas",
     "name": "RJW - RaceSupport"
   },
   {
+    "author": "Thirite, Cheran, Jarry1250, lellel, Kori, Zach",
+    "name": "Babies and Children",
+    "steamId": "2373187996",
+    "version": "1.0.7694.38206"
+  },
+  {
     "author": "C0ffee",
     "name": "Rimworld-Animations",
     "steamId": "",
-    "version": "1.0.3"
+    "version": "1.0.6"
   },
   {
     "author": "Tory187",
@@ -1106,6 +1114,12 @@
   {
     "author": "Tory187",
     "name": "RJWAnimAddons-AnimalPatch"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.1.0"
   },
   {
     "author": "hodlhodl",
@@ -1123,7 +1137,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.2.4"
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.1.6"
   },
   {
     "author": "void",
