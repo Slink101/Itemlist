@@ -5318,6 +5318,12 @@
           "magicallygifted",
           "brightmage",
           "shaman",
+          "shadow",
+          "brightmage",
+          "shaman",
+          "shadow",
+          "brightmage",
+          "shaman",
           "brightmage",
           "shaman"
         ],
@@ -5444,6 +5450,12 @@
         "magicallygifted",
         "brightmage",
         "shaman",
+        "shadow",
+        "brightmage",
+        "shaman",
+        "shadow",
+        "brightmage",
+        "shaman",
         "brightmage",
         "shaman"
       ],
@@ -5551,6 +5563,9 @@
           "bloodmage",
           "wanderer",
           "magicallygifted",
+          "brightmage",
+          "shaman",
+          "shadow",
           "brightmage",
           "shaman",
           "shadow",
@@ -5684,6 +5699,9 @@
         "brightmage",
         "shaman",
         "shadow",
+        "brightmage",
+        "shaman",
+        "shadow",
         "shaman"
       ],
       "bypassLimit": false
@@ -5790,6 +5808,9 @@
           "bloodmage",
           "wanderer",
           "magicallygifted",
+          "brightmage",
+          "shaman",
+          "shadow",
           "brightmage",
           "shaman",
           "shadow",
@@ -5915,6 +5936,9 @@
         "bloodmage",
         "wanderer",
         "magicallygifted",
+        "brightmage",
+        "shaman",
+        "shadow",
         "brightmage",
         "shaman",
         "shadow",
@@ -10328,7 +10352,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Smokeleaf culture is just part life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -10357,7 +10381,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Alcohol culture is just part life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -10502,7 +10526,7 @@
           "+20% medical tend quality"
         ]
       },
-      "description": "Whether through studying ancient manuscripts or years of scholastic persuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practician.",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -11905,35 +11929,26 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "O21_OR_Rebellious",
+      "defName": "Innocent",
       "degree": 0,
-      "name": "rebellious",
+      "name": "innocence",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "cannibal"
+        ],
+        "customName": false,
+        "stats": []
       },
-      "description": "Timmy has a rebellious attitude, causing them to randomly decide to do a different task on occasion.",
+      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nhe will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
       "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_Crosswired",
-      "degree": 0,
-      "name": "crosswired",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has their wires crossed in just the right way to make it so they snap easier.",
-      "stats": [
-        "+10% mental break threshold"
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "cannibal"
       ],
-      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -11941,148 +11956,32 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "O21_OR_Rustbrained",
+      "defName": "Newtype",
       "degree": 0,
-      "name": "rustbrained",
+      "name": "newtype",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "nimble"
+        ],
+        "customName": false,
+        "stats": [
+          "+5 melee",
+          "+5 shooting",
+          "+25.0 melee dodge chance",
+          "x20% trap spring chance"
+        ]
       },
-      "description": "Timmy doesn't learn as well as other droids of their model, they also have problems socially due to this.",
+      "description": "Timmy awakened with a new type. he is amazing at dodging, and get +5 points for melee and shooting. ",
       "stats": [
-        "-15.00% social impact",
-        "-75% global learning factor"
+        "+5 melee",
+        "+5 shooting",
+        "+25.0 melee dodge chance",
+        "x20% trap spring chance"
       ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_Choppy",
-      "degree": 0,
-      "name": "choppy",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has a much better threshold for mental breaks, but sometimes go on an insulting spree for no reason and is more likely to fight with others.",
-      "stats": [
-        "-20% mental break threshold"
+      "conflicts": [
+        "nimble"
       ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_AP5Syndrome",
-      "degree": 0,
-      "name": "ap-5syndrome",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has developed a condition that has been documented rarely in droids where they become tired of being around others, to the point they don't really feel strongly about anything, it makes them break a lot less easily but they also tend to wander about all sad occasionally as a side effect.",
-      "stats": [
-        "-24% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_LooseScrews",
-      "degree": 0,
-      "name": "loosescrews",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has some screws loose and as a result they'll on a rare occasion lose some ability with a random skill.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_Speedy",
-      "degree": 0,
-      "name": "speedy",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has exceptional reaction times, making them slightly faster than other droids of their model.",
-      "stats": [
-        "+0.40 move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_SelfRestrained",
-      "degree": 0,
-      "name": "self-restrained",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has learned to control their emotional programming to the extent usually only a restraint bolt provides, making them incapable of mental breaks.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_Twitchy",
-      "degree": 0,
-      "name": "twitchy",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy has a glitch that causes them to twitch involuntarily, for most tasks this isn't much of an issue, but if he uses a ranged weapon their accuracy will be lowered.",
-      "stats": [
-        "-5.0 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "O21_OR_Twitterer",
-      "degree": 0,
-      "name": "twitterer",
-      "data": {
-        "canBypassLimit": false,
-        "customName": false
-      },
-      "description": "Timmy is particulalry chatty, if they are capable of social they'll be rather good at it, otherwise it's just more beeps and whirrs...",
-      "stats": [
-        "-15% mental break threshold"
-      ],
-      "conflicts": [],
       "bypassLimit": false
     }
   ],
@@ -12187,24 +12086,6 @@
       }
     },
     {
-      "price": 5000,
-      "defName": "Dragonian_Male",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Dragonian_Female",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
       "price": 2500,
       "defName": "Alien_Kijin",
       "enabled": true,
@@ -12236,6 +12117,24 @@
       "defName": "Rakkle",
       "enabled": true,
       "name": "Rakkle",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Dragonian_Male",
+      "enabled": true,
+      "name": "Dragonian",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Dragonian_Female",
+      "enabled": true,
+      "name": "Dragonian",
       "data": {
         "customName": false
       }
@@ -12335,114 +12234,6 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1250,
-      "defName": "Alien_TacticalDroid",
-      "enabled": true,
-      "name": "T-Series Tactical Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 833,
-      "defName": "Alien_BOneDroid",
-      "enabled": true,
-      "name": "B1 Battle Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1667,
-      "defName": "Alien_BTwoDroid",
-      "enabled": true,
-      "name": "B2 Battle Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1667,
-      "defName": "Alien_FettClone",
-      "enabled": true,
-      "name": "Clone Trooper",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Chiss",
-      "enabled": true,
-      "name": "Chiss",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_MonCalamari",
-      "enabled": true,
-      "name": "Mon Calamari",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Quarren",
-      "enabled": true,
-      "name": "Quarren",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Rakata",
-      "enabled": true,
-      "name": "Rakata",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_HK47Droid",
-      "enabled": true,
-      "name": "HK-47 Assassin Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "Alien_HK50Droid",
-      "enabled": true,
-      "name": "HK-50 Assassin Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_HK51Droid",
-      "enabled": true,
-      "name": "HK-51 Assassin Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Togruta",
-      "enabled": true,
-      "name": "Togruta",
       "data": {
         "customName": false
       }
