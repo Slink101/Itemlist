@@ -465,33 +465,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Pyromaniac",
-      "degree": 0,
-      "name": "pyromaniac",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "Flame meditation focus type allowed.",
-          "Only mental break \"FireStartingSpree\" allowed.",
-          "x115% Maximum comfortable temperature"
-        ]
-      },
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
-      "stats": [
-        "Flame meditation focus type allowed.",
-        "Only mental break \"FireStartingSpree\" allowed.",
-        "x115% Maximum comfortable temperature"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Wimp",
       "degree": 0,
       "name": "wimp",
@@ -8887,498 +8860,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "PJ_JediTrait",
-      "degree": 1,
-      "name": "jedi",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_JediTrait",
-      "degree": 2,
-      "name": "jediknight",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_JediTrait",
-      "degree": 3,
-      "name": "jedimaster",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_JediTrait",
-      "degree": 4,
-      "name": "jediconsular",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_SithTrait",
-      "degree": 1,
-      "name": "sith",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_SithTrait",
-      "degree": 2,
-      "name": "sithinquisitor",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_SithTrait",
-      "degree": 3,
-      "name": "sithlord",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_SithTrait",
-      "degree": 4,
-      "name": "sithmaster",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "graypadawan",
-          "grayjedi",
-          "graymaster",
-          "graysage",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "graypadawan",
-        "grayjedi",
-        "graymaster",
-        "graysage",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_GrayTrait",
-      "degree": 1,
-      "name": "graypadawan",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_GrayTrait",
-      "degree": 2,
-      "name": "grayjedi",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_GrayTrait",
-      "degree": 3,
-      "name": "graymaster",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "PJ_GrayTrait",
-      "degree": 4,
-      "name": "graysage",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "jedi",
-          "jediknight",
-          "jedimaster",
-          "jediconsular",
-          "sith",
-          "sithinquisitor",
-          "sithlord",
-          "sithmaster",
-          "forcesensitive",
-          "forceapprentice"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
-      "stats": [],
-      "conflicts": [
-        "jedi",
-        "jediknight",
-        "jedimaster",
-        "jediconsular",
-        "sith",
-        "sithinquisitor",
-        "sithlord",
-        "sithmaster",
-        "forcesensitive",
-        "forceapprentice"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "AIRobot_BaseTrait",
       "degree": 1,
       "name": "robot",
@@ -9733,7 +9214,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to his.",
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to he.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -10019,7 +9500,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for his.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for he.",
       "stats": [],
       "conflicts": [
         "ironstomach"
@@ -11597,33 +11078,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Rapist",
-      "degree": 0,
-      "name": "rapist",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "kind"
-        ],
-        "customName": false,
-        "stats": [
-          "+10.00% sex drive"
-        ]
-      },
-      "description": "Timmy doesn't take \"No\" as an answer.",
-      "stats": [
-        "+10.00% sex drive"
-      ],
-      "conflicts": [
-        "kind"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Necrophiliac",
       "degree": 0,
       "name": "necrophiliac",
@@ -11707,203 +11161,12 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "insatiablesexdrive",
-      "degree": 0,
-      "name": "sexuallyinsatiable",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyheated",
-          "sexuallybothered",
-          "sexuallycollected",
-          "sexuallycooled",
-          "sexuallyinhibited"
-        ],
-        "customName": false,
-        "stats": [
-          "+50.00% vulnerability",
-          "+800.00% sex drive"
-        ]
-      },
-      "description": "No matter how often Timmy has sex, he is never satisfied. his's lust knows no bounds.",
-      "stats": [
-        "+50.00% vulnerability",
-        "+800.00% sex drive"
-      ],
-      "conflicts": [
-        "sexuallyheated",
-        "sexuallybothered",
-        "sexuallycollected",
-        "sexuallycooled",
-        "sexuallyinhibited"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "heatedsexdrive",
-      "degree": 0,
-      "name": "sexuallyheated",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyinsatiable",
-          "sexuallybothered",
-          "sexuallycollected",
-          "sexuallycooled",
-          "sexuallyinhibited"
-        ],
-        "customName": false,
-        "stats": [
-          "+30.00% vulnerability",
-          "+400.00% sex drive"
-        ]
-      },
-      "description": "Timmy's sex drive is much more stimulated than others. he wants sex much more often.",
-      "stats": [
-        "+30.00% vulnerability",
-        "+400.00% sex drive"
-      ],
-      "conflicts": [
-        "sexuallyinsatiable",
-        "sexuallybothered",
-        "sexuallycollected",
-        "sexuallycooled",
-        "sexuallyinhibited"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "botheredsexdrive",
-      "degree": 0,
-      "name": "sexuallybothered",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyinsatiable",
-          "sexuallyheated",
-          "sexuallycollected",
-          "sexuallycooled",
-          "sexuallyinhibited"
-        ],
-        "customName": false,
-        "stats": [
-          "+10.00% vulnerability",
-          "+200.00% sex drive"
-        ]
-      },
-      "description": "Timmy's sex drive is a little more stimulated than others. he wants sex more often.",
-      "stats": [
-        "+10.00% vulnerability",
-        "+200.00% sex drive"
-      ],
-      "conflicts": [
-        "sexuallyinsatiable",
-        "sexuallyheated",
-        "sexuallycollected",
-        "sexuallycooled",
-        "sexuallyinhibited"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "collectedsexdrive",
-      "degree": 0,
-      "name": "sexuallycollected",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyinsatiable",
-          "sexuallyheated",
-          "sexuallybothered",
-          "sexuallycooled",
-          "sexuallyinhibited"
-        ],
-        "customName": false,
-        "stats": [
-          "-10.00% vulnerability",
-          "-20.00% sex drive"
-        ]
-      },
-      "description": "Timmy's sex drive is a little less stimulated than others. he wants sex less often.",
-      "stats": [
-        "-10.00% vulnerability",
-        "-20.00% sex drive"
-      ],
-      "conflicts": [
-        "sexuallyinsatiable",
-        "sexuallyheated",
-        "sexuallybothered",
-        "sexuallycooled",
-        "sexuallyinhibited"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "cooledsexdrive",
-      "degree": 0,
-      "name": "sexuallycooled",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyinsatiable",
-          "sexuallyheated",
-          "sexuallybothered",
-          "sexuallycollected",
-          "sexuallyinhibited"
-        ],
-        "customName": false,
-        "stats": [
-          "-30.00% vulnerability",
-          "-40.00% sex drive"
-        ]
-      },
-      "description": "Timmy's sex drive is much less stimulated than others. he wants sex much less often.",
-      "stats": [
-        "-30.00% vulnerability",
-        "-40.00% sex drive"
-      ],
-      "conflicts": [
-        "sexuallyinsatiable",
-        "sexuallyheated",
-        "sexuallybothered",
-        "sexuallycollected",
-        "sexuallyinhibited"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "inhibitedsexdrive",
-      "degree": 0,
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": -3,
       "name": "sexuallyinhibited",
       "data": {
         "canBypassLimit": false,
-        "conflicts": [
-          "sexuallyinsatiable",
-          "sexuallyheated",
-          "sexuallybothered",
-          "sexuallycollected",
-          "sexuallycooled"
-        ],
+        "conflicts": [],
         "customName": false,
         "stats": [
           "-50.00% vulnerability",
@@ -11915,13 +11178,7 @@
         "-50.00% vulnerability",
         "-80.00% sex drive"
       ],
-      "conflicts": [
-        "sexuallyinsatiable",
-        "sexuallyheated",
-        "sexuallybothered",
-        "sexuallycollected",
-        "sexuallycooled"
-      ],
+      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -11929,59 +11186,124 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Innocent",
-      "degree": 0,
-      "name": "innocence",
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": -2,
+      "name": "sexuallycooled",
       "data": {
         "canBypassLimit": false,
-        "conflicts": [
-          "psychopath",
-          "bloodlust",
-          "cannibal"
-        ],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nhe will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
-      "stats": [],
-      "conflicts": [
-        "psychopath",
-        "bloodlust",
-        "cannibal"
-      ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Newtype",
-      "degree": 0,
-      "name": "newtype",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [
-          "nimble"
-        ],
+        "conflicts": [],
         "customName": false,
         "stats": [
-          "+5 melee",
-          "+5 shooting",
-          "+25.0 melee dodge chance",
-          "x20% trap spring chance"
+          "-30.00% vulnerability",
+          "-40.00% sex drive"
         ]
       },
-      "description": "Timmy awakened with a new type. he is amazing at dodging, and get +5 points for melee and shooting. ",
+      "description": "Timmy's sex drive is much less stimulated than others. he wants sex much less often.",
       "stats": [
-        "+5 melee",
-        "+5 shooting",
-        "+25.0 melee dodge chance",
-        "x20% trap spring chance"
+        "-30.00% vulnerability",
+        "-40.00% sex drive"
       ],
-      "conflicts": [
-        "nimble"
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": -1,
+      "name": "sexuallycollected",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-10.00% vulnerability",
+          "-20.00% sex drive"
+        ]
+      },
+      "description": "Timmy's sex drive is a little less stimulated than others. he wants sex less often.",
+      "stats": [
+        "-10.00% vulnerability",
+        "-20.00% sex drive"
       ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": 1,
+      "name": "sexuallybothered",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+10.00% vulnerability",
+          "+200.00% sex drive"
+        ]
+      },
+      "description": "Timmy's sex drive is a little more stimulated than others. he wants sex more often.",
+      "stats": [
+        "+10.00% vulnerability",
+        "+200.00% sex drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": 2,
+      "name": "sexuallyheated",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+30.00% vulnerability",
+          "+400.00% sex drive"
+        ]
+      },
+      "description": "Timmy's sex drive is much more stimulated than others. he wants sex much more often.",
+      "stats": [
+        "+30.00% vulnerability",
+        "+400.00% sex drive"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "SexDriveTraits_Spectrum",
+      "degree": 3,
+      "name": "sexuallyinsatiable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+50.00% vulnerability",
+          "+800.00% sex drive"
+        ]
+      },
+      "description": "No matter how often Timmy has sex, he is never satisfied. his's lust knows no bounds.",
+      "stats": [
+        "+50.00% vulnerability",
+        "+800.00% sex drive"
+      ],
+      "conflicts": [],
       "bypassLimit": false
     }
   ],
@@ -12123,24 +11445,6 @@
     },
     {
       "price": 5000,
-      "defName": "Dragonian_Male",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Dragonian_Female",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
       "defName": "Alien_Thrumboian",
       "enabled": true,
       "name": "thrumboian",
@@ -12234,6 +11538,15 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 9667,
+      "defName": "Dragonian",
+      "enabled": true,
+      "name": "Dragonian",
       "data": {
         "customName": false
       }
