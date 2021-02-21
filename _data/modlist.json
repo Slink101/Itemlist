@@ -656,10 +656,6 @@
     "name": "Argonians of Blackmarsh (Continued)"
   },
   {
-    "author": "Zamnath",
-    "name": "Black Widows (Continued)"
-  },
-  {
     "author": "Roskii",
     "name": "Astoriel"
   },
@@ -1096,12 +1092,6 @@
     "name": "RJWAnimAddons-AnimalPatch"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "1.5.2.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1124,5 +1114,11 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.1.6"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.2.0"
   }
 ]
