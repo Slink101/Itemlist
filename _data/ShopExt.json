@@ -2471,7 +2471,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to he.",
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -4134,6 +4134,154 @@
       ],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Hygienic",
+      "degree": 2,
+      "name": "germaphobe",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Hygienic",
+      "degree": 1,
+      "name": "hygienic",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Hygienic",
+      "degree": -1,
+      "name": "unhygienic",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Hygienic",
+      "degree": -2,
+      "name": "slob",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Open_Partnership",
+      "degree": 0,
+      "name": "openpartnership",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy does not mind when their lover has fun with other people.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Cross_Dresser_Extreme",
+      "degree": 0,
+      "name": "crossdresserextreme",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has to wearing clothes of the opposite gender.",
+      "stats": [],
+      "conflicts": [
+        "nudist",
+        "crossdresserindifferent",
+        "crossdresser"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Cross_Dresser_Indifferent",
+      "degree": 0,
+      "name": "crossdresserindifferent",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy doesn't mind wearing clothes of the opposite gender.",
+      "stats": [],
+      "conflicts": [
+        "nudist",
+        "crossdresser",
+        "crossdresserextreme"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Cross_Dresser",
+      "degree": 0,
+      "name": "crossdresser",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy likes wearing clothes of the opposite gender.",
+      "stats": [],
+      "conflicts": [
+        "nudist",
+        "crossdresserindifferent",
+        "crossdresserextreme"
+      ],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -4214,15 +4362,6 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5333,
-      "defName": "Alien_Moyo",
-      "enabled": true,
-      "name": "Moyo",
       "data": {
         "customName": false
       }
@@ -4367,6 +4506,15 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1500,
+      "defName": "Pawnbold_bold",
+      "enabled": true,
+      "name": "kobold",
       "data": {
         "customName": false
       }
