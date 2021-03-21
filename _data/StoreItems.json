@@ -8565,31 +8565,31 @@
 	{
 		"abr": "dragonstatuea",
 		"price": 450,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "Dragon_Statue_A"
 	},
 	{
 		"abr": "dragonstatueb",
 		"price": 450,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "Dragon_Statue_B"
 	},
 	{
 		"abr": "dragonstatuec",
 		"price": 450,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "Dragon_Statue_C"
 	},
 	{
 		"abr": "dragonstatued",
 		"price": 450,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "Dragon_Statue_D"
 	},
 	{
 		"abr": "dragonstatuee",
 		"price": 450,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "Dragon_Statue_E"
 	},
 	{
@@ -10047,25 +10047,25 @@
 	{
 		"abr": "ancientbanner",
 		"price": 319,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "RWY_Banner_A"
 	},
 	{
 		"abr": "ancientbanner",
 		"price": 319,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "RWY_Banner_B"
 	},
 	{
 		"abr": "ancientbanner",
 		"price": 319,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "RWY_Banner_C"
 	},
 	{
 		"abr": "ancientbanner",
 		"price": 319,
-		"category": "Furniture",
+		"category": "Art",
 		"defname": "RWY_Banner_D"
 	},
 	{
@@ -10241,30 +10241,6 @@
 		"price": 9150,
 		"category": "Buildings",
 		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "abyssalpearl",
-		"price": 1333,
-		"category": "Manufactured",
-		"defname": "Moyo_AbyssPearl"
-	},
-	{
-		"abr": "abysstechhealermechserum",
-		"price": 4167,
-		"category": "Items",
-		"defname": "Moyo_HealerSerum"
-	},
-	{
-		"abr": "abysstechheart",
-		"price": 3708,
-		"category": "Bionic",
-		"defname": "Moyo_AdvancedHeart"
-	},
-	{
-		"abr": "abyssteel",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "Moyo_Abyssteel"
 	},
 	{
 		"abr": "advancedincubator",
@@ -10555,12 +10531,6 @@
 		"defname": "Ovipore"
 	},
 	{
-		"abr": "belial-v",
-		"price": 833,
-		"category": "Drugs",
-		"defname": "Moyo_BelialV"
-	},
-	{
 		"abr": "bioturret",
 		"price": 3033,
 		"category": "Misc",
@@ -10621,34 +10591,10 @@
 		"defname": "CFBionicAniStomach"
 	},
 	{
-		"abr": "bionicmoyotail",
-		"price": 1583,
-		"category": "Bionic",
-		"defname": "Moyo_BionicTail"
-	},
-	{
 		"abr": "bloodsigil",
 		"price": 3833,
 		"category": "Misc",
 		"defname": "ReviaBloodSigil"
-	},
-	{
-		"abr": "bluehaze",
-		"price": 75,
-		"category": "Drugs",
-		"defname": "BlueYo"
-	},
-	{
-		"abr": "blueburst",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueBurst"
-	},
-	{
-		"abr": "bluemed",
-		"price": 70,
-		"category": "Medicine",
-		"defname": "MoyoMedicine"
 	},
 	{
 		"abr": "bonewall",
@@ -10717,12 +10663,6 @@
 		"defname": "FuelStorage"
 	},
 	{
-		"abr": "clens-azure",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "Clensazure"
-	},
-	{
 		"abr": "cloakingdevice",
 		"price": 6442,
 		"category": "Misc",
@@ -10787,12 +10727,6 @@
 		"price": 2667,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_CraftingBot"
-	},
-	{
-		"abr": "abysstechpersonaadvisermodule",
-		"price": 10567,
-		"category": "Misc",
-		"defname": "MoyoGRModule"
 	},
 	{
 		"abr": "crittersleepcaskets(32)",
@@ -11041,34 +10975,10 @@
 		"defname": "DeepWaterWellInlet"
 	},
 	{
-		"abr": "deepblueserum",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "AbyssSerum"
-	},
-	{
-		"abr": "deepbluestation",
-		"price": 2500,
-		"category": "Production",
-		"defname": "Moyo_DBS"
-	},
-	{
 		"abr": "deployablebarrier",
 		"price": 96,
 		"category": "Misc",
 		"defname": "VFES_DeployableBarrier"
-	},
-	{
-		"abr": "depthweave",
-		"price": 7,
-		"category": "Textiles",
-		"defname": "Moyo_Depthweave"
-	},
-	{
-		"abr": "detoxer-cobalt",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "DetoxerCobalt"
 	},
 	{
 		"abr": "door",
@@ -11173,12 +11083,6 @@
 		"defname": "ElectricCrematorium"
 	},
 	{
-		"abr": "embrasure",
-		"price": 20,
-		"category": "Misc",
-		"defname": "ED_Embrasure"
-	},
-	{
 		"abr": "emergencypurgeport",
 		"price": 2050,
 		"category": "Misc",
@@ -11243,12 +11147,6 @@
 		"price": 425,
 		"category": "Misc",
 		"defname": "EmpirePowerGenerator"
-	},
-	{
-		"abr": "fakemoyotail",
-		"price": 240,
-		"category": "Prosthetic",
-		"defname": "Moyo_FakeTail"
 	},
 	{
 		"abr": "finemeal(vegetables)",
@@ -11333,12 +11231,6 @@
 		"price": 2,
 		"category": "Alien raw fish",
 		"defname": "VCEF_GiantPolarPrawn"
-	},
-	{
-		"abr": "grandabyssalpearlsculpture",
-		"price": 65967,
-		"category": "Art",
-		"defname": "PearlSculptureGrand"
 	},
 	{
 		"abr": "grandstele",
@@ -12679,204 +12571,6 @@
 		"defname": "Meat_AA_InfectedAerofleet"
 	},
 	{
-		"abr": "5.11tactecplatecarrier",
-		"price": 975,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_5_11_Tactec_plate_carrier"
-	},
-	{
-		"abr": "6b13assaultarmor",
-		"price": 1242,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B13_Assault_Armor"
-	},
-	{
-		"abr": "6b13massaultarmor",
-		"price": 1917,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B13_M_Assault_Armor"
-	},
-	{
-		"abr": "6b2armor",
-		"price": 500,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B2_Armor"
-	},
-	{
-		"abr": "6b23-1armor",
-		"price": 642,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B23-1_Armor"
-	},
-	{
-		"abr": "6b23-2armor",
-		"price": 1425,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B23-2_Armor"
-	},
-	{
-		"abr": "6b3tm-01marmoredrig",
-		"price": 583,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_6B3TM-01M"
-	},
-	{
-		"abr": "6b43zabralo-sh6aarmor",
-		"price": 3375,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_6B43_Zabralo-Sh_6A_Armor"
-	},
-	{
-		"abr": "6b47ratnik-bshhelmet",
-		"price": 500,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ratnik-BSh_Helmet"
-	},
-	{
-		"abr": "6b5-15zh-86uleyarmoredrig",
-		"price": 667,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_6B5-15_Zh-86_rig"
-	},
-	{
-		"abr": "6b5-16zh-86uleyarmoredrig",
-		"price": 500,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_6B5-16_Zh-86_rig"
-	},
-	{
-		"abr": "altynhelmet",
-		"price": 983,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Altyn_Helmet"
-	},
-	{
-		"abr": "altynhelmet(faceshieldup)",
-		"price": 992,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Altyn_Helmet_Shieldup"
-	},
-	{
-		"abr": "altynhelmet(faceshield)",
-		"price": 992,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Altyn_Helmet_Shield"
-	},
-	{
-		"abr": "anatacticalalphachestrig",
-		"price": 708,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_ANA_Tactical"
-	},
-	{
-		"abr": "anatacticalm1armoredrig",
-		"price": 767,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_ANA_Tactical_M1_rig"
-	},
-	{
-		"abr": "anatacticalm2armoredrig",
-		"price": 725,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_ANA_Tactical_M2_rig"
-	},
-	{
-		"abr": "armycap",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Army_Cap"
-	},
-	{
-		"abr": "arsarmaa18skandaplatecarrier",
-		"price": 942,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Ars_Arma_A18_Skanda"
-	},
-	{
-		"abr": "arsarmacpcmod.2platecarrier",
-		"price": 992,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Ars_Arma_CPC_MOD_2_rig"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava2_Mask"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava3_Mask"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava4_Mask"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava5_Mask"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava6_Mask"
-	},
-	{
-		"abr": "balaclava",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Balaclava7_Mask"
-	},
-	{
-		"abr": "bankrobber",
-		"price": 200,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Spiritus_Systems"
-	},
-	{
-		"abr": "baseballcap(black)",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Baseball_Cap_Black"
-	},
-	{
-		"abr": "baseballcap(green)",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Baseball_Cap_Green"
-	},
-	{
-		"abr": "baseballcap(tan)",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Baseball_Cap_Tan"
-	},
-	{
-		"abr": "beanie",
-		"price": 83,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headwear_Beanie"
-	},
-	{
-		"abr": "belt-a+belt-bgearrig",
-		"price": 917,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Belt-A"
-	},
-	{
 		"abr": "bionickurinear",
 		"price": 1367,
 		"category": "Bionic",
@@ -12895,136 +12589,16 @@
 		"defname": "BionicLamiaTail"
 	},
 	{
-		"abr": "blackhawk!commandochestharness",
-		"price": 467,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Commando_Chest_Harness"
-	},
-	{
-		"abr": "blackrockchestrig",
-		"price": 575,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_BlackRock"
-	},
-	{
-		"abr": "bntigzhel-karmor",
-		"price": 2750,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_BNTI_Gzhel-K_Armor"
-	},
-	{
-		"abr": "bntikirasa-narmor",
-		"price": 692,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_BNTI_Kirasa-N_Armor"
-	},
-	{
-		"abr": "bntilshz-2dtmhelmet",
-		"price": 867,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_BNTI_LSHZ-2DTM_Helmet"
-	},
-	{
-		"abr": "bntilshz-2dtmhelmet(visorandaventail)",
-		"price": 942,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_BNTI_LSHZ-2DTM_Helmet_Full"
-	},
-	{
-		"abr": "bntilshz-2dtmhelmet(visor)",
-		"price": 900,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_BNTI_LSHZ-2DTM_Helmet_Shield"
-	},
-	{
-		"abr": "cryeprecisionavsplatecarrier",
-		"price": 800,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Crye_Precision_AVS"
-	},
-	{
-		"abr": "directactionthunderboltcompactchestrig",
-		"price": 500,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Direct_Action_Compact"
-	},
-	{
 		"abr": "fakekurintail",
 		"price": 282,
 		"category": "Prosthetic",
 		"defname": "Kurin_FakeTail"
 	},
 	{
-		"abr": "fortdefender-2bodyarmor",
-		"price": 2925,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_FORT_Defender-2_Body_Armor"
-	},
-	{
-		"abr": "fortredut-mbodyarmor",
-		"price": 1667,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_FORT_Redut-M_Body_Armor"
-	},
-	{
-		"abr": "fortredut-t5bodyarmor",
-		"price": 3333,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_FORT_Redut-T5_Body_Armor"
-	},
-	{
-		"abr": "haleystrategicd3crxchestharness",
-		"price": 433,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Haley_Strategic_D3CRX"
-	},
-	{
-		"abr": "highcomstrikerachhchelmet",
-		"price": 625,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Highcom_Striker_ACHHC_IIIA_Helmet"
-	},
-	{
-		"abr": "highcomstrikerachhchelmet",
-		"price": 625,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Highcom_Striker_ACHHC_IIIA_Helmet_Black"
-	},
-	{
-		"abr": "highcomstrikerulachhelmet",
-		"price": 675,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Highcom_Striker_ULACH_IIIA_Helmet"
-	},
-	{
-		"abr": "highcomtroopertfoarmor",
-		"price": 883,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_Highcom_Trooper_TFO_Armor"
-	},
-	{
 		"abr": "insectchitin",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Chitin"
-	},
-	{
-		"abr": "iotvgen4armor",
-		"price": 2217,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_IOTV_Gen4_Armor"
-	},
-	{
-		"abr": "iotvgen4armor(assaultkit)",
-		"price": 3150,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_IOTV_Gen4_ArmorAssaultkit"
-	},
-	{
-		"abr": "iotvgen4armor(fullprotection)",
-		"price": 3200,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_IOTV_Gen4_ArmorFullProtection"
 	},
 	{
 		"abr": "ironchitin",
@@ -13097,36 +12671,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Procoptodon"
-	},
-	{
-		"abr": "kiver-mhelmet",
-		"price": 508,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Kiver_M_Helmet"
-	},
-	{
-		"abr": "kiver-mhelmet(visorup)",
-		"price": 517,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Kiver_M_Helmet_Shieldup"
-	},
-	{
-		"abr": "kiver-mhelmet(visor)",
-		"price": 517,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Kiver_M_Helmet_Shield"
-	},
-	{
-		"abr": "kolpak-1sriothelmet",
-		"price": 467,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Kolpak-1S_Riot_Helmet"
-	},
-	{
-		"abr": "kolpak-1sriothelmet(visor)",
-		"price": 467,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Kolpak-1S_Riot_Helmet_Shield"
 	},
 	{
 		"abr": "kurin",
@@ -13573,12 +13117,6 @@
 		"defname": "Lamiamilk"
 	},
 	{
-		"abr": "largeabyssalpearlsculpture",
-		"price": 16517,
-		"category": "Art",
-		"defname": "PearlSculptureLarge"
-	},
-	{
 		"abr": "largecannonturret",
 		"price": 6175,
 		"category": "Misc",
@@ -13651,18 +13189,6 @@
 		"defname": "ShipTurret_Laser"
 	},
 	{
-		"abr": "lbt6094aslickplatecarrier",
-		"price": 3358,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_LBT_6094A_Slick_Plate_Carrier"
-	},
-	{
-		"abr": "lbt-1961aloadbearingchestvest",
-		"price": 575,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_LBT-1961A_Load_Bearing"
-	},
-	{
 		"abr": "lernaeanhydra",
 		"price": 1667,
 		"category": "Animal",
@@ -13729,12 +13255,6 @@
 		"defname": "AA_LuciferBug"
 	},
 	{
-		"abr": "lzshlighthelmet",
-		"price": 500,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_LZSh_Light_Helmet"
-	},
-	{
 		"abr": "macrauchenia",
 		"price": 1667,
 		"category": "Animal",
@@ -13793,24 +13313,6 @@
 		"price": 750,
 		"category": "Animal",
 		"defname": "AA_Mantrap"
-	},
-	{
-		"abr": "maska1schhelmet",
-		"price": 983,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Maska_1Sch_Helmet"
-	},
-	{
-		"abr": "maska1schhelmet(faceshield)",
-		"price": 992,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Maska_1Sch_Helmet_Shield"
-	},
-	{
-		"abr": "maska1schhelmet(faceshield)",
-		"price": 983,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Maska_1Sch_Helmet_Shieldup"
 	},
 	{
 		"abr": "massiverunedcolumn",
@@ -13987,12 +13489,6 @@
 		"defname": "Meat_AA_Metallovore"
 	},
 	{
-		"abr": "mf-untararmorvest",
-		"price": 550,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_MF-UNTAR_Armor_Vest"
-	},
-	{
 		"abr": "mime",
 		"price": 1667,
 		"category": "Animal",
@@ -14023,12 +13519,6 @@
 		"defname": "AIRobot_RechargeStation_MiningBot"
 	},
 	{
-		"abr": "module-3marmor",
-		"price": 375,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_Module-3M"
-	},
-	{
 		"abr": "moisturepump",
 		"price": 458,
 		"category": "Misc",
@@ -14053,328 +13543,10 @@
 		"defname": "Meat_AA_GallatrossMoribund"
 	},
 	{
-		"abr": "morphi-blue",
-		"price": 120,
-		"category": "Drugs",
-		"defname": "BlueGo"
-	},
-	{
 		"abr": "mothsilk",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "AA_MothSilk"
-	},
-	{
-		"abr": "moyo",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Moyo"
-	},
-	{
-		"abr": "moyoautocannon",
-		"price": 2900,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_AutoCannon"
-	},
-	{
-		"abr": "moyobalista",
-		"price": 2783,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_BoltCaster"
-	},
-	{
-		"abr": "moyobloodbag",
-		"price": 33,
-		"category": "Manufactured",
-		"defname": "Moyo_BloodBag"
-	},
-	{
-		"abr": "moyobodysuit",
-		"price": 542,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Bodysuit"
-	},
-	{
-		"abr": "moyobodywrappings",
-		"price": 211,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Tribal"
-	},
-	{
-		"abr": "moyobowlerhat",
-		"price": 77,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_BowlerHat"
-	},
-	{
-		"abr": "moyochargerifle",
-		"price": 1883,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeRifle"
-	},
-	{
-		"abr": "moyochargesmg",
-		"price": 1500,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_ChargeSMG"
-	},
-	{
-		"abr": "moyocompositebodysuit",
-		"price": 1042,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Evasuit"
-	},
-	{
-		"abr": "moyocowboyhat",
-		"price": 94,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_CowboyHat"
-	},
-	{
-		"abr": "moyocryoblaster",
-		"price": 2783,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_CryoBlaster"
-	},
-	{
-		"abr": "moyodeepdivinggear",
-		"price": 3750,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_DDgear"
-	},
-	{
-		"abr": "moyodeepdivinghelmet",
-		"price": 1267,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_DDhelmet"
-	},
-	{
-		"abr": "moyodivinggear",
-		"price": 2900,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_LDgear"
-	},
-	{
-		"abr": "moyodivinghelmet",
-		"price": 950,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_LDhelmet"
-	},
-	{
-		"abr": "moyodivingknife",
-		"price": 475,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Knife"
-	},
-	{
-		"abr": "moyoduster",
-		"price": 327,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Duster"
-	},
-	{
-		"abr": "moyoengineeringgear",
-		"price": 617,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_EGsuit"
-	},
-	{
-		"abr": "moyoglaive",
-		"price": 1933,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Spear"
-	},
-	{
-		"abr": "moyoheart",
-		"price": 1083,
-		"category": "Natural",
-		"defname": "Moyo_Heart"
-	},
-	{
-		"abr": "moyojacket",
-		"price": 275,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Jacket"
-	},
-	{
-		"abr": "moyomeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Alien_Moyo"
-	},
-	{
-		"abr": "moyominiholoprojectora",
-		"price": 425,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramA"
-	},
-	{
-		"abr": "moyominiholoprojectorb",
-		"price": 425,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramB"
-	},
-	{
-		"abr": "moyominiholoprojectorc",
-		"price": 425,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_RoyalHologramC"
-	},
-	{
-		"abr": "moyoparka",
-		"price": 315,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Parka"
-	},
-	{
-		"abr": "moyopiledriver",
-		"price": 1392,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Piledriver"
-	},
-	{
-		"abr": "moyopistol",
-		"price": 600,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_Pistol"
-	},
-	{
-		"abr": "moyopowerfist",
-		"price": 1750,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_PowerFist"
-	},
-	{
-		"abr": "moyoprecisionrifle",
-		"price": 1800,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_PrecisionRifle"
-	},
-	{
-		"abr": "moyoroyalautocannon",
-		"price": 5383,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyAutoCannon"
-	},
-	{
-		"abr": "moyoroyalbalista",
-		"price": 5383,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyBoltCaster"
-	},
-	{
-		"abr": "moyoroyalchargerifle",
-		"price": 4183,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_HeavyChargeRifle"
-	},
-	{
-		"abr": "moyoroyalglaive",
-		"price": 4367,
-		"category": "Moyo ranged weapons",
-		"defname": "Moyo_GDSpear"
-	},
-	{
-		"abr": "moyoroyalpowerfist",
-		"price": 4367,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_GDPowerFist"
-	},
-	{
-		"abr": "moyoroyalguardarmor",
-		"price": 5892,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_GDsuit"
-	},
-	{
-		"abr": "moyoroyalguardhelmet",
-		"price": 2258,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_GDhelmet"
-	},
-	{
-		"abr": "moyoroyalguardlightarmor",
-		"price": 5892,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_GSsuit"
-	},
-	{
-		"abr": "moyoroyalguardlighthelmet",
-		"price": 1633,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_GShelmet"
-	},
-	{
-		"abr": "moyoroyalrobea",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeA"
-	},
-	{
-		"abr": "moyoroyalrobeb",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeB"
-	},
-	{
-		"abr": "moyoroyalrobec",
-		"price": 1475,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_RoyalRobeC"
-	},
-	{
-		"abr": "moyoroyalsuit",
-		"price": 1583,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_Royalsuit"
-	},
-	{
-		"abr": "moyoshirtandboots",
-		"price": 342,
-		"category": "Moyo Apparel",
-		"defname": "Moyo_SnB"
-	},
-	{
-		"abr": "moyotuque",
-		"price": 91,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_Tuque"
-	},
-	{
-		"abr": "moyoweldingmask",
-		"price": 281,
-		"category": "Moyo Headgear",
-		"defname": "Moyo_EGmask"
-	},
-	{
-		"abr": "moyowrench",
-		"price": 251,
-		"category": "Moyo melee weapons",
-		"defname": "Moyo_Wrench"
-	},
-	{
-		"abr": "mrig",
-		"price": 228,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_SOE_Micro"
-	},
-	{
-		"abr": "msatc-2001helmet",
-		"price": 575,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_MSA_TC_2001_Helmet"
-	},
-	{
-		"abr": "msatc-2002helmet",
-		"price": 583,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_MSA_TC_2002_Helmet"
-	},
-	{
-		"abr": "msatc-800helmet",
-		"price": 617,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_MSA_TC_800_Helmet"
 	},
 	{
 		"abr": "mudsplashercarp",
@@ -14387,12 +13559,6 @@
 		"price": 1,
 		"category": "Stone blocks",
 		"defname": "AB_BlocksMudstone"
-	},
-	{
-		"abr": "multi-purposepatrolvest",
-		"price": 767,
-		"category": "CheatRigs",
-		"defname": "JDSTarkov_Velocity_Systems"
 	},
 	{
 		"abr": "mushroomstalks",
@@ -14569,12 +13735,6 @@
 		"defname": "NutrientPasteDispenser"
 	},
 	{
-		"abr": "nutritionpack",
-		"price": 25,
-		"category": "Manufactured",
-		"defname": "Moyo_DBSF"
-	},
-	{
 		"abr": "obsidianblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -14629,42 +13789,6 @@
 		"defname": "OilWellHead"
 	},
 	{
-		"abr": "ops-corefastmtfullhelmet",
-		"price": 850,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_Full_MT"
-	},
-	{
-		"abr": "ops-corefastmthelmet",
-		"price": 667,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_MT_Helmet"
-	},
-	{
-		"abr": "ops-corefastmthelmet",
-		"price": 667,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_MT_Ten"
-	},
-	{
-		"abr": "ops-corefastmthelmet(visor)",
-		"price": 700,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_MT_Helmet_Shield"
-	},
-	{
-		"abr": "ops-corefastmtmandohelmet",
-		"price": 808,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_MT_Mando"
-	},
-	{
-		"abr": "ops-corefastmtmodhelmet",
-		"price": 825,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_Ops-Core_Fast_mod_MT"
-	},
-	{
 		"abr": "ottermeat",
 		"price": 3,
 		"category": "Meat",
@@ -14699,12 +13823,6 @@
 		"price": 97,
 		"category": "Misc",
 		"defname": "Vent_Over"
-	},
-	{
-		"abr": "pacasoftarmor",
-		"price": 492,
-		"category": "ArmorVests",
-		"defname": "JDSTarkov_PACA_Soft_Armor"
 	},
 	{
 		"abr": "palaeeudyptes",
@@ -14753,12 +13871,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_MM_Pegasus"
-	},
-	{
-		"abr": "penoxy-blue",
-		"price": 117,
-		"category": "Drugs",
-		"defname": "PenoxyBlue"
 	},
 	{
 		"abr": "phoenixowlcat",
@@ -14929,18 +14041,6 @@
 		"defname": "ActivatorProximity"
 	},
 	{
-		"abr": "psh-97djetahelmet",
-		"price": 483,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_PSH-97_Djeta_Helmet_UI"
-	},
-	{
-		"abr": "psh-97djetahelmet(visor)",
-		"price": 492,
-		"category": "HeadGears",
-		"defname": "JDSTarkov_Headgear_PSH-97_Djeta_Helmet_Shield_UI"
-	},
-	{
 		"abr": "psychotropicfungus",
 		"price": 3,
 		"category": "Drugs",
@@ -15091,5 +14191,5 @@
 		"defname": "Meat_AA_Razorjack"
 	},
 	],
-	"total": 2812
+	"total": 2772
 }
