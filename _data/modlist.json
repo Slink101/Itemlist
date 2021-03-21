@@ -24,12 +24,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.9"
-  },
-  {
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
@@ -56,12 +50,6 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "mr.teterew",
-    "name": "Real Ruins",
-    "steamId": "1552146295",
-    "version": "2.2.0.0"
   },
   {
     "author": "Kentington and Thain",
@@ -102,10 +90,6 @@
   {
     "author": "LachlanEaston",
     "name": "LBE's A Dog Said Easy Patcher"
-  },
-  {
-    "author": "TheSleeplessSorclock",
-    "name": "Age Morphosis Cells"
   },
   {
     "author": "Josh Mate",
@@ -274,12 +258,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Universal Fermenter",
-    "steamId": "2073225100",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vaniat",
     "name": "Incident Person Stat",
     "steamId": "1414697588",
@@ -332,12 +310,6 @@
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.3.754"
   },
   {
     "author": "Uuugggg",
@@ -456,10 +428,6 @@
     "name": "RimWorld - Heat statistics"
   },
   {
-    "author": "WGFLASH55",
-    "name": "Circle And Oval"
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Caravan",
     "steamId": "1253251478",
@@ -470,10 +438,6 @@
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Daniledman",
-    "name": "Hardworking animals 1.2"
   },
   {
     "author": "Chicken Plucker",
@@ -608,10 +572,6 @@
   {
     "author": "ssulunge",
     "name": "FemaleBB BodyType for Alien Races "
-  },
-  {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Cosmetic Modifications"
   },
   {
     "author": "ssulunge",
@@ -790,36 +750,12 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Boreal Forest"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Swamp"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Rainforest"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet"
-  },
-  {
     "author": "Chicken Plucker",
     "name": "[CP] Metal Gear Solid"
   },
   {
     "author": "Lumi",
     "name": "Star Wars Slave Bikini Outfit"
-  },
-  {
-    "author": "Geminingen",
-    "name": "Kenshi Armory"
   },
   {
     "author": "Kikohi",
@@ -954,12 +890,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Machine",
-    "name": "Raise The Roof 1.2",
-    "steamId": "1776143665",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sihv",
     "name": "Rim of Madness - Bones",
     "steamId": "1180573408",
@@ -1064,34 +994,6 @@
     "name": "Pack Mules Extended - Dinosauria"
   },
   {
-    "author": "Ed86",
-    "name": "RimJobWorld",
-    "steamId": "",
-    "version": "4.6.1"
-  },
-  {
-    "author": "Abraxas",
-    "name": "RJW - RaceSupport"
-  },
-  {
-    "author": "C0ffee",
-    "name": "Rimworld-Animations",
-    "steamId": "",
-    "version": "1.0.11"
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-VoicePatch"
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-XtraAnims"
-  },
-  {
-    "author": "Tory187",
-    "name": "RJWAnimAddons-AnimalPatch"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1120,5 +1022,33 @@
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.2.0"
+  },
+  {
+    "author": "Ed86",
+    "name": "RimJobWorld",
+    "steamId": "",
+    "version": "4.6.1"
+  },
+  {
+    "author": "Abraxas",
+    "name": "RJW - RaceSupport"
+  },
+  {
+    "author": "C0ffee",
+    "name": "Rimworld-Animations",
+    "steamId": "",
+    "version": "1.0.11"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-VoicePatch"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-XtraAnims"
+  },
+  {
+    "author": "Tory187",
+    "name": "RJWAnimAddons-AnimalPatch"
   }
 ]
