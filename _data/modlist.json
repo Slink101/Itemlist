@@ -33,7 +33,7 @@
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.965"
+    "version": "1.2.1012"
   },
   {
     "author": "dhultgren",
@@ -91,7 +91,13 @@
     "author": "Xen and Jecrell",
     "name": "Star Wars - The Force (Continued)",
     "steamId": "2263227169",
-    "version": "1.0.2.0"
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.4.0.0"
   },
   {
     "author": "LachlanEaston",
@@ -100,6 +106,10 @@
   {
     "author": "Josh Mate",
     "name": "Better Traders"
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map"
   },
   {
     "author": "Sarg",
@@ -275,13 +285,13 @@
     "author": "Saakra",
     "name": "Empire",
     "steamId": "2006535182",
-    "version": "0.354"
+    "version": "0.358"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.2.790"
+    "version": "1.3.823"
   },
   {
     "author": "Avius",
@@ -299,13 +309,13 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.4.0"
+    "version": "3.1.6.0"
   },
   {
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cults (Continued)",
     "steamId": "2249174783",
-    "version": "1.0.15.0"
+    "version": "1.0.18.0"
   },
   {
     "author": "Telefonmast",
@@ -389,7 +399,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.1.1.0"
+    "version": "2.1.2.0"
   },
   {
     "author": "Oskar Potocki, Kikohi, Helixien",
@@ -449,7 +459,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2024"
+    "version": "2.9.2035"
   },
   {
     "author": "MarvinKosh",
@@ -628,10 +638,6 @@
     "name": "FemaleBB BodyType for Alien Races "
   },
   {
-    "author": "Helixien and Xen",
-    "name": "Argonians of Blackmarsh (Continued)"
-  },
-  {
     "author": "Roskii",
     "name": "Astoriel"
   },
@@ -642,26 +648,12 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dynes",
-    "name": "Powerful Pawnbold"
-  },
-  {
     "author": "Kikohi",
-    "name": "Forsakens",
-    "steamId": "1728999127",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "MoriShep, Tarojun, Lucky",
-    "name": "Oni of the Rim"
+    "name": "Forsakens"
   },
   {
     "author": "Farmradish",
     "name": "Nyaron race"
-  },
-  {
-    "author": "Naharri and EvilChaosKnight",
-    "name": "Kilhn Race"
   },
   {
     "author": "Erolynx Rebeka",
@@ -678,30 +670,12 @@
     "name": "The Drow Race Continued"
   },
   {
-    "author": "Undereastern, Owlchemist",
-    "name": "Lizardmen"
-  },
-  {
     "author": "JKV",
     "name": "Rakkle the rattle snake Race mod"
   },
   {
     "author": "Naharri, Tarojun",
     "name": "Thrumboian Race"
-  },
-  {
-    "author": "Summin",
-    "name": "Dragonkin"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Thrumkin",
-    "steamId": "2017359567",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "MaroonToon",
-    "name": "Kurin RJW Edition"
   },
   {
     "author": "Haplo",
@@ -754,16 +728,6 @@
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.7.0"
-  },
-  {
-    "author": "Onyxae",
-    "name": "Dragon's Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ravvy",
-    "name": "[RWY]Dragon's Descent: Void Dwellers"
   },
   {
     "author": "uniinu",
@@ -874,12 +838,6 @@
     "name": "VFES reinforced embrasure"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Skylights",
-    "steamId": "833899765",
-    "version": "1.5.1471"
-  },
-  {
     "author": "NEPH, Maxim",
     "name": "Utility Columns"
   },
@@ -893,7 +851,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.22.0"
+    "version": "1.0.26.0"
   },
   {
     "author": "Loconeko",
@@ -914,18 +872,26 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sihv",
-    "name": "Rim of Madness - Bones",
-    "steamId": "1180573408",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
     "name": "Vanilla Plants Expanded"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
     "name": "Vanilla Cooking Expanded"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews"
+  },
+  {
+    "author": "Oskar Potocki, Smash Phil",
+    "name": "Vanilla Storytellers Expanded - Oskar Obnoxious",
+    "steamId": "2443118113",
+    "version": "1.0.0.0"
   },
   {
     "author": "Meltup",
@@ -987,7 +953,7 @@
     "author": "aRandomKiwi",
     "name": "Guards For Me",
     "steamId": "1855885448",
-    "version": "3.0.2.0"
+    "version": "3.0.4.0"
   },
   {
     "author": "Vakaria",
@@ -1043,13 +1009,13 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "1.5.3.0"
+    "version": "1.5.5.0"
   },
   {
     "author": "Ed86",
     "name": "RimJobWorld",
     "steamId": "",
-    "version": "4.6.5b"
+    "version": "4.6.7.2"
   },
   {
     "author": "Abraxas",
@@ -1059,7 +1025,7 @@
     "author": "C0ffee",
     "name": "Rimworld-Animations",
     "steamId": "",
-    "version": "1.0.13"
+    "version": "1.1.2"
   },
   {
     "author": "Tory187",
@@ -1072,6 +1038,14 @@
   {
     "author": "Tory187",
     "name": "RJWAnimAddons-AnimalPatch"
+  },
+  {
+    "author": "Roboslob/What_Smellz",
+    "name": "RoboAnims"
+  },
+  {
+    "author": "C0ffee",
+    "name": "RJW-Events"
   },
   {
     "author": "Abraxas",
