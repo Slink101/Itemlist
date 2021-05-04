@@ -24,12 +24,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "GHXX",
-    "name": "Tech Advancing",
-    "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
@@ -84,10 +78,6 @@
     "name": "Thanks For All The Fish"
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
     "author": "Xen and Jecrell",
     "name": "Star Wars - The Force (Continued)",
     "steamId": "2263227169",
@@ -100,20 +90,12 @@
     "version": "2.4.0.0"
   },
   {
-    "author": "LachlanEaston",
-    "name": "LBE's A Dog Said Easy Patcher"
-  },
-  {
     "author": "Josh Mate",
     "name": "Better Traders"
   },
   {
     "author": "Falconne",
     "name": "Heat Map"
-  },
-  {
-    "author": "Sarg",
-    "name": "Smart Speed"
   },
   {
     "author": "Doomsday343",
@@ -174,18 +156,6 @@
     "name": "1.2 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)"
   },
   {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Appearance clothes",
-    "steamId": "1537867047",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Xen and Jecrell",
     "name": "Star Wars - Fully Functional Lightsabers (Continued)",
     "steamId": "2263225380",
@@ -194,12 +164,6 @@
   {
     "author": "void",
     "name": "Character Editor"
-  },
-  {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.4.01"
   },
   {
     "author": "Roolo",
@@ -222,12 +186,6 @@
   {
     "author": "Orion",
     "name": "Gastronomy"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Harvest Yield",
-    "steamId": "1461790308",
-    "version": "1.0.0.0"
   },
   {
     "author": "Nandonalt (Maintained by McKay)",
@@ -254,10 +212,6 @@
     "name": "Solar Flares Affect Mechanoids",
     "steamId": "1906174567",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "TheSleeplessSorclock, Haecriver",
-    "name": "Age Morphosis Cells"
   },
   {
     "author": "Alias",
@@ -288,28 +242,10 @@
     "version": "0.358"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.3.823"
-  },
-  {
-    "author": "Avius",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "0.10.7735.34310"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.2"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.6.0"
+    "version": "3.1.7.0"
   },
   {
     "author": "Jecrell",
@@ -366,22 +302,8 @@
     "version": "20.0.15.1"
   },
   {
-    "author": "CodeOptimist",
-    "name": "Jobs of Opportunity (While You're Up)"
-  },
-  {
-    "author": "PinoChemicali",
-    "name": "More Trade Ships"
-  },
-  {
     "author": "zyxabacab",
     "name": "No Sympathy for Prisoners"
-  },
-  {
-    "author": "Machine",
-    "name": "Better Infestations 1.2",
-    "steamId": "1319614331",
-    "version": "1.0.0.0"
   },
   {
     "author": "gguake",
@@ -482,10 +404,6 @@
     "version": "1.0.7528.166"
   },
   {
-    "author": "Taveron",
-    "name": "Increased Stack"
-  },
-  {
     "author": "Magical Liopleurodon",
     "name": "Non-Flammable Metal (1.0-1.2)"
   },
@@ -528,10 +446,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "民火",
-    "name": "Appearance clothes - Humanoid Alien Races Patch"
-  },
-  {
     "author": "dninemfive",
     "name": "Settlement Descriptions"
   },
@@ -552,6 +466,12 @@
     "name": "Nals Facial Animation for HAR"
   },
   {
+    "author": "Revolus",
+    "name": "Animals are fun",
+    "steamId": "2108362126",
+    "version": "2020.5.30.0"
+  },
+  {
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
@@ -566,24 +486,6 @@
   {
     "author": "Smash Phil | Dr_Zhivago",
     "name": "Carry Capacity Fixed"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.7.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Combat 3",
-    "steamId": "2038409475",
-    "version": "1.0.0.0"
   },
   {
     "author": "rooki1",
@@ -656,18 +558,12 @@
     "name": "Nyaron race"
   },
   {
-    "author": "Razar1",
-    "name": "Monstergirl Races"
+    "author": "MaroonToon",
+    "name": "Kurin RJW Edition"
   },
   {
     "author": "Erolynx Rebeka",
     "name": "Dragonian RimjobEdtion"
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kerevan",
@@ -688,28 +584,6 @@
   {
     "author": "Alaestor",
     "name": "Misc. Robots++"
-  },
-  {
-    "author": "leion247",
-    "name": "Misc. Craftable Robots"
-  },
-  {
-    "author": "gloriousyuri",
-    "name": "Misc. Craftable Robots Retexture"
-  },
-  {
-    "author": "民火",
-    "name": "Statue of Colonist",
-    "steamId": "1539031321",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Statue Of Colonist Alien Race Patch"
-  },
-  {
-    "author": "民火",
-    "name": "Statue of Colonist AC Patch"
   },
   {
     "author": "Spincrus",
@@ -748,14 +622,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[CP] Metal Gear Solid"
-  },
-  {
-    "author": "Lumi",
-    "name": "Star Wars Slave Bikini Outfit"
-  },
-  {
     "author": "Kikohi",
     "name": "Jewelry",
     "steamId": "2020964421",
@@ -772,10 +638,6 @@
   {
     "author": "Harkon",
     "name": "Gun Nut - Chapter #2"
-  },
-  {
-    "author": "Luneyl",
-    "name": "Thermal Wrapping"
   },
   {
     "author": "Sarg Bjornson",
@@ -799,7 +661,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.7"
+    "version": "1.2.0.8"
   },
   {
     "author": "Coalcat and sumghai",
@@ -825,6 +687,10 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
     "name": "Vanilla Brewing Expanded"
   },
   {
@@ -838,24 +704,20 @@
     "name": "Vanilla Furniture Expanded - Farming"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas"
+  },
+  {
     "author": "Y1NaLin",
     "name": "VFES reinforced embrasure"
-  },
-  {
-    "author": "NEPH, Maxim",
-    "name": "Utility Columns"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simply More Bridges (Continued)",
-    "steamId": "2012484790",
-    "version": "1.0.26.0"
   },
   {
     "author": "Loconeko",
@@ -874,22 +736,6 @@
     "name": "Quarry 1.1",
     "steamId": "2007576583",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Plants Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded"
-  },
-  {
-    "author": "Sarg Bjornson, Chowder",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded - Stews"
   },
   {
     "author": "Oskar Potocki, Smash Phil",
@@ -930,16 +776,8 @@
     "name": "World Map Beautification Project - for Alpha Biomes"
   },
   {
-    "author": "Carolusclen",
-    "name": "World Map Beautification Project - for More Vanilla Biomes"
-  },
-  {
     "author": "Vambypants",
     "name": "Epic Rivers"
-  },
-  {
-    "author": "Daniledman",
-    "name": "Cyber Fauna 1.2"
   },
   {
     "author": "aRandomKiwi",
@@ -992,6 +830,12 @@
     "name": "Pack Mules Extended - Dinosauria"
   },
   {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -1019,7 +863,7 @@
     "author": "Ed86",
     "name": "RimJobWorld",
     "steamId": "",
-    "version": "4.6.7.3"
+    "version": "4.6.7.4"
   },
   {
     "author": "Abraxas",
@@ -1027,9 +871,17 @@
   },
   {
     "author": "C0ffee",
+    "name": "RJW-Events"
+  },
+  {
+    "author": "C0ffee",
     "name": "Rimworld-Animations",
     "steamId": "",
     "version": "1.1.2"
+  },
+  {
+    "author": "Roboslob/What_Smellz",
+    "name": "RoboAnims"
   },
   {
     "author": "Tory187",
@@ -1042,17 +894,5 @@
   {
     "author": "Tory187",
     "name": "RJWAnimAddons-AnimalPatch"
-  },
-  {
-    "author": "Roboslob/What_Smellz",
-    "name": "RoboAnims"
-  },
-  {
-    "author": "C0ffee",
-    "name": "RJW-Events"
-  },
-  {
-    "author": "Abraxas",
-    "name": "Ab Patches"
   }
 ]
